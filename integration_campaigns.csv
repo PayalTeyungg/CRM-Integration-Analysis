@@ -1,0 +1,9 @@
+campaign_id,crm_platform,campaign_type,start_date,end_date,budget_usd,impressions,clicks,leads_generated,cost_per_lead
+CAMP_001,HubSpot,Email Marketing,2024-01-15,2024-04-14,24958,122097,6012,378,85.47
+CAMP_002,Pipedrive,Email Marketing,2024-02-01,2024-05-01,20697,160604,2520,180,84.48
+CAMP_003,Zoho CRM,Content Marketing,2024-03-10,2024-06-08,30247,182475,11863,177,41.78
+CAMP_004,Microsoft Dynamics 365,Content Marketing,2024-04-05,2024-07-04,63739,107787,9359,753,146.87
+CAMP_005,ActiveCampaign,Email Marketing,2024-05-20,2024-08-18,25463,160785,7574,434,82.4
+CAMP_006,Salesforce,Content Marketing,2024-06-15,2024-09-13,55588,76793,3519,539,223.25
+CAMP_007,Freshworks CRM,Webinar,2024-07-01,2024-09-29,37541,119342,2711,620,53.71
+CAMP_008,Monday.com,Email Marketing,2024-08-10,2024-11-08,39807,70656,11044,450,50.2

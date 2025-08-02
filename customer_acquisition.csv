@@ -1,0 +1,1845 @@
+customer_id,acquisition_source,acquisition_date,company_size,industry,initial_subscription_tier,trial_to_paid_days,is_active
+1000,HubSpot,2024-05-07,Large (201-1000),Education,Business,,True
+1001,HubSpot,2024-04-22,Large (201-1000),Healthcare,Business,19.0,True
+1002,HubSpot,2024-04-05,Large (201-1000),Finance,Business,28.0,True
+1003,HubSpot,2024-05-13,Small (1-50),Manufacturing,Starter,12.0,True
+1004,HubSpot,2024-02-18,Medium (51-200),Technology,Business,8.0,True
+1005,HubSpot,2024-03-06,Large (201-1000),Healthcare,Business,25.0,True
+1006,HubSpot,2024-02-24,Medium (51-200),Retail,Business,27.0,True
+1007,HubSpot,2024-02-17,Medium (51-200),Education,Professional,15.0,True
+1008,HubSpot,2024-03-09,Enterprise (1000+),Healthcare,Enterprise,11.0,True
+1009,HubSpot,2024-01-26,Small (1-50),Healthcare,Starter,28.0,True
+1010,HubSpot,2024-01-23,Enterprise (1000+),Manufacturing,Enterprise,23.0,True
+1011,HubSpot,2024-03-25,Small (1-50),Education,Starter,15.0,True
+1012,HubSpot,2024-02-27,Small (1-50),Retail,Professional,7.0,True
+1013,HubSpot,2024-05-06,Large (201-1000),Manufacturing,Business,27.0,True
+1014,HubSpot,2024-04-05,Medium (51-200),Finance,Professional,24.0,True
+1015,HubSpot,2024-05-12,Small (1-50),Retail,Professional,,True
+1016,HubSpot,2024-05-06,Large (201-1000),Technology,Business,25.0,True
+1017,HubSpot,2024-01-25,Enterprise (1000+),Manufacturing,Business,11.0,True
+1018,HubSpot,2024-03-25,Medium (51-200),Manufacturing,Business,20.0,True
+1019,HubSpot,2024-05-12,Medium (51-200),Retail,Business,27.0,True
+1020,HubSpot,2024-05-09,Enterprise (1000+),Healthcare,Business,17.0,False
+1021,HubSpot,2024-03-25,Medium (51-200),Technology,Professional,,True
+1022,HubSpot,2024-02-13,Small (1-50),Finance,Starter,,True
+1023,HubSpot,2024-04-09,Enterprise (1000+),Manufacturing,Business,,True
+1024,HubSpot,2024-03-28,Enterprise (1000+),Retail,Business,13.0,False
+1025,HubSpot,2024-04-08,Enterprise (1000+),Retail,Enterprise,30.0,False
+1026,HubSpot,2024-04-07,Small (1-50),Retail,Starter,10.0,True
+1027,HubSpot,2024-02-08,Enterprise (1000+),Retail,Business,21.0,True
+1028,HubSpot,2024-05-12,Small (1-50),Manufacturing,Professional,,True
+1029,HubSpot,2024-03-24,Small (1-50),Healthcare,Starter,22.0,True
+1030,HubSpot,2024-05-04,Enterprise (1000+),Healthcare,Business,19.0,True
+1031,HubSpot,2024-04-24,Enterprise (1000+),Retail,Enterprise,30.0,True
+1032,HubSpot,2024-03-26,Enterprise (1000+),Healthcare,Business,8.0,True
+1033,HubSpot,2024-03-24,Small (1-50),Technology,Professional,,True
+1034,HubSpot,2024-05-11,Medium (51-200),Manufacturing,Professional,,True
+1035,HubSpot,2024-03-31,Small (1-50),Retail,Starter,,True
+1036,HubSpot,2024-02-15,Small (1-50),Retail,Starter,25.0,True
+1037,HubSpot,2024-05-13,Large (201-1000),Education,Business,14.0,True
+1038,HubSpot,2024-01-31,Large (201-1000),Finance,Enterprise,9.0,False
+1039,HubSpot,2024-04-03,Small (1-50),Manufacturing,Starter,15.0,True
+1040,HubSpot,2024-02-28,Small (1-50),Finance,Starter,21.0,True
+1041,HubSpot,2024-04-14,Large (201-1000),Education,Business,16.0,True
+1042,HubSpot,2024-01-28,Medium (51-200),Technology,Business,30.0,True
+1043,HubSpot,2024-02-18,Large (201-1000),Education,Business,28.0,True
+1044,HubSpot,2024-02-17,Enterprise (1000+),Technology,Enterprise,,True
+1045,HubSpot,2024-02-19,Small (1-50),Finance,Starter,27.0,True
+1046,HubSpot,2024-02-04,Enterprise (1000+),Manufacturing,Enterprise,,False
+1047,HubSpot,2024-05-07,Medium (51-200),Finance,Professional,11.0,True
+1048,HubSpot,2024-01-20,Large (201-1000),Technology,Enterprise,13.0,True
+1049,HubSpot,2024-04-09,Small (1-50),Manufacturing,Professional,20.0,True
+1050,HubSpot,2024-04-19,Medium (51-200),Healthcare,Professional,12.0,True
+1051,HubSpot,2024-01-18,Medium (51-200),Retail,Business,30.0,True
+1052,HubSpot,2024-02-18,Medium (51-200),Retail,Professional,22.0,True
+1053,HubSpot,2024-04-28,Enterprise (1000+),Finance,Enterprise,14.0,True
+1054,HubSpot,2024-04-08,Medium (51-200),Finance,Business,9.0,True
+1055,HubSpot,2024-02-19,Large (201-1000),Education,Enterprise,24.0,True
+1056,HubSpot,2024-01-18,Small (1-50),Healthcare,Professional,15.0,False
+1057,HubSpot,2024-03-31,Enterprise (1000+),Education,Enterprise,20.0,True
+1058,HubSpot,2024-03-20,Small (1-50),Manufacturing,Professional,8.0,True
+1059,HubSpot,2024-01-15,Medium (51-200),Retail,Business,,True
+1060,HubSpot,2024-02-26,Large (201-1000),Education,Business,23.0,True
+1061,HubSpot,2024-03-07,Large (201-1000),Education,Enterprise,11.0,True
+1062,HubSpot,2024-04-09,Enterprise (1000+),Manufacturing,Business,19.0,True
+1063,HubSpot,2024-01-15,Large (201-1000),Healthcare,Enterprise,25.0,True
+1064,HubSpot,2024-02-25,Enterprise (1000+),Retail,Enterprise,23.0,True
+1065,HubSpot,2024-05-09,Medium (51-200),Finance,Professional,27.0,True
+1066,HubSpot,2024-01-26,Medium (51-200),Healthcare,Business,11.0,False
+1067,HubSpot,2024-02-15,Enterprise (1000+),Retail,Business,27.0,True
+1068,HubSpot,2024-04-15,Enterprise (1000+),Retail,Enterprise,27.0,True
+1069,HubSpot,2024-05-08,Small (1-50),Healthcare,Professional,29.0,True
+1070,HubSpot,2024-01-21,Medium (51-200),Retail,Professional,,True
+1071,HubSpot,2024-03-22,Large (201-1000),Manufacturing,Enterprise,23.0,True
+1072,HubSpot,2024-05-10,Enterprise (1000+),Education,Business,21.0,True
+1073,HubSpot,2024-02-15,Large (201-1000),Education,Enterprise,21.0,False
+1074,HubSpot,2024-02-20,Medium (51-200),Finance,Business,24.0,False
+1075,HubSpot,2024-02-03,Medium (51-200),Education,Business,13.0,False
+1076,HubSpot,2024-03-07,Large (201-1000),Retail,Enterprise,,True
+1077,HubSpot,2024-03-04,Small (1-50),Retail,Professional,,True
+1078,HubSpot,2024-04-20,Enterprise (1000+),Manufacturing,Enterprise,24.0,True
+1079,HubSpot,2024-05-08,Medium (51-200),Healthcare,Business,22.0,False
+1080,HubSpot,2024-02-27,Enterprise (1000+),Retail,Business,26.0,True
+1081,HubSpot,2024-05-10,Enterprise (1000+),Technology,Business,11.0,True
+1082,HubSpot,2024-02-07,Small (1-50),Retail,Professional,21.0,True
+1083,HubSpot,2024-04-21,Enterprise (1000+),Retail,Enterprise,9.0,True
+1084,HubSpot,2024-04-19,Small (1-50),Healthcare,Professional,27.0,False
+1085,HubSpot,2024-01-18,Medium (51-200),Technology,Professional,14.0,True
+1086,HubSpot,2024-04-09,Small (1-50),Retail,Starter,18.0,True
+1087,HubSpot,2024-04-01,Small (1-50),Finance,Starter,,False
+1088,HubSpot,2024-02-23,Enterprise (1000+),Education,Enterprise,25.0,True
+1089,HubSpot,2024-04-04,Medium (51-200),Education,Professional,28.0,True
+1090,HubSpot,2024-01-30,Small (1-50),Manufacturing,Professional,18.0,False
+1091,HubSpot,2024-04-06,Large (201-1000),Retail,Business,10.0,True
+1092,HubSpot,2024-03-01,Enterprise (1000+),Retail,Business,23.0,True
+1093,HubSpot,2024-02-18,Enterprise (1000+),Retail,Enterprise,25.0,True
+1094,HubSpot,2024-05-03,Medium (51-200),Finance,Professional,14.0,True
+1095,HubSpot,2024-03-27,Enterprise (1000+),Technology,Enterprise,17.0,True
+1096,HubSpot,2024-02-11,Large (201-1000),Finance,Enterprise,26.0,True
+1097,HubSpot,2024-02-19,Small (1-50),Technology,Starter,20.0,True
+1098,HubSpot,2024-04-21,Medium (51-200),Education,Business,21.0,True
+1099,HubSpot,2024-01-26,Large (201-1000),Retail,Business,16.0,True
+1100,HubSpot,2024-03-02,Enterprise (1000+),Retail,Enterprise,24.0,True
+1101,HubSpot,2024-04-13,Enterprise (1000+),Finance,Enterprise,10.0,True
+1102,HubSpot,2024-02-24,Small (1-50),Healthcare,Starter,22.0,True
+1103,HubSpot,2024-03-30,Large (201-1000),Healthcare,Business,18.0,True
+1104,HubSpot,2024-01-16,Medium (51-200),Technology,Business,24.0,True
+1105,HubSpot,2024-05-14,Medium (51-200),Technology,Business,25.0,True
+1106,HubSpot,2024-03-16,Enterprise (1000+),Healthcare,Enterprise,15.0,True
+1107,HubSpot,2024-03-16,Small (1-50),Retail,Starter,25.0,True
+1108,HubSpot,2024-01-21,Medium (51-200),Manufacturing,Professional,9.0,True
+1109,HubSpot,2024-01-30,Enterprise (1000+),Manufacturing,Business,21.0,True
+1110,HubSpot,2024-03-30,Enterprise (1000+),Manufacturing,Enterprise,26.0,True
+1111,HubSpot,2024-01-27,Medium (51-200),Finance,Professional,12.0,True
+1112,HubSpot,2024-03-25,Small (1-50),Technology,Starter,29.0,True
+1113,HubSpot,2024-02-21,Small (1-50),Finance,Starter,29.0,True
+1114,HubSpot,2024-01-24,Medium (51-200),Education,Business,13.0,True
+1115,HubSpot,2024-03-24,Medium (51-200),Finance,Professional,9.0,False
+1116,HubSpot,2024-04-25,Large (201-1000),Retail,Enterprise,,True
+1117,HubSpot,2024-04-13,Enterprise (1000+),Manufacturing,Enterprise,21.0,False
+1118,HubSpot,2024-01-20,Enterprise (1000+),Manufacturing,Enterprise,9.0,True
+1119,HubSpot,2024-04-10,Small (1-50),Manufacturing,Professional,,True
+1120,HubSpot,2024-03-15,Enterprise (1000+),Healthcare,Enterprise,20.0,True
+1121,HubSpot,2024-03-17,Small (1-50),Finance,Professional,17.0,True
+1122,HubSpot,2024-05-03,Medium (51-200),Retail,Business,16.0,True
+1123,HubSpot,2024-03-06,Small (1-50),Technology,Professional,17.0,False
+1124,HubSpot,2024-04-22,Enterprise (1000+),Education,Business,21.0,True
+1125,HubSpot,2024-02-08,Large (201-1000),Education,Enterprise,8.0,True
+1126,HubSpot,2024-03-25,Medium (51-200),Retail,Business,22.0,True
+1127,HubSpot,2024-04-04,Medium (51-200),Finance,Professional,24.0,True
+1128,HubSpot,2024-02-12,Small (1-50),Technology,Professional,11.0,True
+1129,HubSpot,2024-04-15,Large (201-1000),Retail,Enterprise,22.0,True
+1130,HubSpot,2024-03-25,Medium (51-200),Healthcare,Business,23.0,True
+1131,HubSpot,2024-02-01,Small (1-50),Retail,Professional,23.0,True
+1132,HubSpot,2024-01-15,Large (201-1000),Manufacturing,Enterprise,28.0,True
+1133,HubSpot,2024-02-03,Enterprise (1000+),Finance,Enterprise,24.0,True
+1134,HubSpot,2024-05-13,Large (201-1000),Education,Business,19.0,True
+1135,HubSpot,2024-04-23,Enterprise (1000+),Finance,Business,29.0,True
+1136,HubSpot,2024-03-03,Enterprise (1000+),Retail,Business,11.0,True
+1137,HubSpot,2024-03-30,Large (201-1000),Retail,Business,,True
+1138,HubSpot,2024-01-16,Medium (51-200),Education,Business,9.0,True
+1139,HubSpot,2024-02-17,Large (201-1000),Education,Enterprise,,True
+1140,HubSpot,2024-04-10,Enterprise (1000+),Education,Enterprise,22.0,True
+1141,HubSpot,2024-01-19,Small (1-50),Education,Starter,16.0,True
+1142,HubSpot,2024-04-19,Small (1-50),Technology,Professional,29.0,True
+1143,HubSpot,2024-03-11,Medium (51-200),Technology,Business,,True
+1144,HubSpot,2024-02-21,Large (201-1000),Retail,Enterprise,,True
+1145,HubSpot,2024-03-27,Medium (51-200),Healthcare,Professional,,True
+1146,HubSpot,2024-04-03,Medium (51-200),Manufacturing,Business,,True
+1147,HubSpot,2024-02-16,Enterprise (1000+),Education,Enterprise,,True
+1148,HubSpot,2024-05-09,Large (201-1000),Technology,Business,18.0,True
+1149,HubSpot,2024-02-22,Enterprise (1000+),Retail,Enterprise,13.0,True
+1150,HubSpot,2024-05-03,Enterprise (1000+),Healthcare,Business,18.0,True
+1151,HubSpot,2024-04-13,Large (201-1000),Education,Business,7.0,True
+1152,HubSpot,2024-04-11,Small (1-50),Finance,Professional,14.0,True
+1153,HubSpot,2024-02-29,Medium (51-200),Manufacturing,Professional,30.0,True
+1154,HubSpot,2024-04-11,Medium (51-200),Education,Professional,16.0,True
+1155,HubSpot,2024-01-19,Large (201-1000),Technology,Business,17.0,True
+1156,HubSpot,2024-02-06,Medium (51-200),Manufacturing,Professional,18.0,True
+1157,HubSpot,2024-05-10,Large (201-1000),Finance,Business,22.0,True
+1158,HubSpot,2024-02-21,Large (201-1000),Retail,Business,11.0,True
+1159,HubSpot,2024-02-12,Enterprise (1000+),Technology,Enterprise,7.0,True
+1160,HubSpot,2024-01-30,Enterprise (1000+),Education,Enterprise,15.0,True
+1161,HubSpot,2024-04-29,Large (201-1000),Education,Business,7.0,True
+1162,HubSpot,2024-05-14,Large (201-1000),Education,Business,,True
+1163,HubSpot,2024-05-10,Large (201-1000),Technology,Enterprise,,True
+1164,HubSpot,2024-02-22,Enterprise (1000+),Technology,Business,24.0,True
+1165,HubSpot,2024-03-13,Large (201-1000),Manufacturing,Enterprise,11.0,True
+1166,HubSpot,2024-04-07,Small (1-50),Manufacturing,Professional,15.0,False
+1167,HubSpot,2024-03-02,Medium (51-200),Retail,Business,18.0,False
+1168,HubSpot,2024-04-11,Large (201-1000),Technology,Enterprise,13.0,True
+1169,HubSpot,2024-05-02,Enterprise (1000+),Education,Business,27.0,True
+1170,HubSpot,2024-01-17,Small (1-50),Healthcare,Professional,25.0,True
+1171,HubSpot,2024-04-30,Medium (51-200),Healthcare,Professional,11.0,True
+1172,HubSpot,2024-03-31,Small (1-50),Healthcare,Professional,24.0,True
+1173,HubSpot,2024-02-06,Small (1-50),Healthcare,Starter,,True
+1174,HubSpot,2024-02-14,Large (201-1000),Healthcare,Business,11.0,True
+1175,HubSpot,2024-03-22,Small (1-50),Retail,Starter,18.0,True
+1176,HubSpot,2024-01-28,Enterprise (1000+),Manufacturing,Business,,True
+1177,HubSpot,2024-05-04,Large (201-1000),Education,Enterprise,8.0,True
+1178,HubSpot,2024-05-02,Enterprise (1000+),Education,Enterprise,,True
+1179,HubSpot,2024-03-11,Small (1-50),Finance,Starter,9.0,True
+1180,HubSpot,2024-04-03,Large (201-1000),Manufacturing,Enterprise,21.0,True
+1181,HubSpot,2024-03-10,Small (1-50),Education,Starter,24.0,True
+1182,HubSpot,2024-02-11,Enterprise (1000+),Healthcare,Enterprise,21.0,True
+1183,HubSpot,2024-04-17,Small (1-50),Retail,Professional,15.0,True
+1184,HubSpot,2024-02-03,Enterprise (1000+),Technology,Business,9.0,True
+1185,HubSpot,2024-04-19,Large (201-1000),Manufacturing,Business,,True
+1186,HubSpot,2024-03-26,Large (201-1000),Retail,Business,28.0,True
+1187,HubSpot,2024-03-09,Small (1-50),Manufacturing,Professional,10.0,True
+1188,HubSpot,2024-02-11,Medium (51-200),Healthcare,Business,18.0,True
+1189,HubSpot,2024-03-02,Small (1-50),Manufacturing,Professional,20.0,True
+1190,HubSpot,2024-04-22,Small (1-50),Technology,Professional,29.0,True
+1191,HubSpot,2024-05-11,Large (201-1000),Technology,Enterprise,11.0,True
+1192,HubSpot,2024-03-06,Small (1-50),Education,Starter,7.0,False
+1193,HubSpot,2024-03-22,Medium (51-200),Retail,Business,12.0,True
+1194,HubSpot,2024-04-16,Large (201-1000),Technology,Business,26.0,False
+1195,HubSpot,2024-01-25,Large (201-1000),Education,Enterprise,26.0,True
+1196,HubSpot,2024-02-18,Medium (51-200),Finance,Professional,16.0,True
+1197,HubSpot,2024-03-30,Enterprise (1000+),Technology,Enterprise,26.0,False
+1198,HubSpot,2024-02-10,Large (201-1000),Healthcare,Business,16.0,True
+1199,HubSpot,2024-01-15,Enterprise (1000+),Healthcare,Enterprise,,True
+1200,HubSpot,2024-02-13,Large (201-1000),Retail,Business,8.0,True
+1201,HubSpot,2024-03-13,Small (1-50),Manufacturing,Professional,19.0,True
+1202,HubSpot,2024-03-08,Large (201-1000),Retail,Business,,True
+1203,HubSpot,2024-04-26,Enterprise (1000+),Technology,Enterprise,10.0,True
+1204,HubSpot,2024-03-30,Enterprise (1000+),Retail,Business,30.0,True
+1205,HubSpot,2024-02-26,Medium (51-200),Manufacturing,Professional,23.0,True
+1206,HubSpot,2024-05-09,Large (201-1000),Education,Enterprise,27.0,True
+1207,HubSpot,2024-02-14,Small (1-50),Finance,Starter,26.0,True
+1208,HubSpot,2024-04-21,Small (1-50),Education,Starter,25.0,True
+1209,HubSpot,2024-03-12,Large (201-1000),Healthcare,Enterprise,22.0,True
+1210,HubSpot,2024-02-22,Large (201-1000),Finance,Business,16.0,True
+1211,HubSpot,2024-01-19,Small (1-50),Finance,Professional,,True
+1212,HubSpot,2024-05-03,Small (1-50),Retail,Professional,30.0,True
+1213,HubSpot,2024-03-12,Medium (51-200),Manufacturing,Business,11.0,True
+1214,HubSpot,2024-03-12,Small (1-50),Education,Professional,,True
+1215,HubSpot,2024-01-20,Medium (51-200),Retail,Business,26.0,True
+1216,HubSpot,2024-03-02,Large (201-1000),Retail,Enterprise,28.0,True
+1217,HubSpot,2024-04-25,Large (201-1000),Finance,Business,,True
+1218,HubSpot,2024-02-20,Large (201-1000),Finance,Business,,True
+1219,HubSpot,2024-05-11,Large (201-1000),Education,Enterprise,19.0,True
+1220,HubSpot,2024-04-14,Small (1-50),Manufacturing,Professional,17.0,True
+1221,HubSpot,2024-04-09,Small (1-50),Manufacturing,Professional,18.0,True
+1222,HubSpot,2024-02-11,Large (201-1000),Healthcare,Enterprise,11.0,True
+1223,HubSpot,2024-02-21,Small (1-50),Education,Starter,26.0,True
+1224,HubSpot,2024-03-03,Medium (51-200),Healthcare,Professional,26.0,True
+1225,HubSpot,2024-02-05,Enterprise (1000+),Retail,Business,30.0,True
+1226,HubSpot,2024-03-11,Large (201-1000),Healthcare,Enterprise,16.0,True
+1227,HubSpot,2024-04-24,Enterprise (1000+),Finance,Business,25.0,True
+1228,HubSpot,2024-03-14,Large (201-1000),Manufacturing,Enterprise,12.0,True
+1229,HubSpot,2024-04-26,Medium (51-200),Technology,Business,18.0,True
+1230,HubSpot,2024-01-28,Small (1-50),Technology,Professional,15.0,True
+1231,HubSpot,2024-03-20,Medium (51-200),Technology,Business,14.0,True
+1232,HubSpot,2024-05-07,Large (201-1000),Retail,Business,,True
+1233,HubSpot,2024-02-14,Enterprise (1000+),Finance,Business,17.0,True
+1234,HubSpot,2024-05-01,Large (201-1000),Healthcare,Business,,True
+1235,HubSpot,2024-03-15,Medium (51-200),Retail,Business,9.0,False
+1236,HubSpot,2024-02-11,Medium (51-200),Technology,Business,14.0,True
+1237,HubSpot,2024-01-21,Medium (51-200),Education,Business,21.0,False
+1238,HubSpot,2024-05-01,Enterprise (1000+),Education,Business,14.0,True
+1239,HubSpot,2024-02-21,Enterprise (1000+),Manufacturing,Business,25.0,True
+1240,HubSpot,2024-04-09,Small (1-50),Technology,Professional,24.0,True
+1241,HubSpot,2024-03-19,Small (1-50),Retail,Professional,,True
+1242,HubSpot,2024-03-02,Large (201-1000),Finance,Business,18.0,True
+1243,HubSpot,2024-04-08,Small (1-50),Healthcare,Professional,,True
+1244,HubSpot,2024-04-28,Medium (51-200),Education,Business,12.0,True
+1245,HubSpot,2024-01-23,Enterprise (1000+),Finance,Business,13.0,True
+1246,HubSpot,2024-02-24,Large (201-1000),Manufacturing,Enterprise,8.0,True
+1247,HubSpot,2024-02-08,Large (201-1000),Technology,Enterprise,17.0,True
+1248,HubSpot,2024-04-26,Large (201-1000),Retail,Enterprise,19.0,True
+1249,HubSpot,2024-02-07,Enterprise (1000+),Finance,Enterprise,23.0,True
+1250,HubSpot,2024-01-25,Enterprise (1000+),Retail,Business,12.0,True
+1251,HubSpot,2024-02-25,Small (1-50),Finance,Starter,16.0,True
+1252,HubSpot,2024-04-15,Enterprise (1000+),Education,Business,21.0,False
+1253,HubSpot,2024-05-05,Large (201-1000),Finance,Enterprise,8.0,False
+1254,HubSpot,2024-04-05,Enterprise (1000+),Manufacturing,Enterprise,28.0,True
+1255,HubSpot,2024-01-18,Medium (51-200),Technology,Business,,True
+1256,HubSpot,2024-04-06,Large (201-1000),Retail,Enterprise,8.0,True
+1257,HubSpot,2024-04-10,Enterprise (1000+),Finance,Enterprise,9.0,True
+1258,HubSpot,2024-03-22,Large (201-1000),Finance,Enterprise,14.0,True
+1259,HubSpot,2024-01-18,Medium (51-200),Manufacturing,Business,24.0,False
+1260,HubSpot,2024-04-23,Large (201-1000),Healthcare,Enterprise,16.0,True
+1261,HubSpot,2024-03-17,Medium (51-200),Healthcare,Professional,21.0,True
+1262,HubSpot,2024-04-15,Enterprise (1000+),Education,Business,17.0,True
+1263,HubSpot,2024-04-14,Small (1-50),Finance,Professional,29.0,True
+1264,HubSpot,2024-04-13,Medium (51-200),Manufacturing,Business,13.0,True
+1265,HubSpot,2024-02-14,Enterprise (1000+),Finance,Business,18.0,True
+1266,HubSpot,2024-03-25,Medium (51-200),Technology,Professional,29.0,True
+1267,HubSpot,2024-03-22,Enterprise (1000+),Manufacturing,Enterprise,,True
+1268,HubSpot,2024-04-06,Small (1-50),Retail,Professional,18.0,True
+1269,HubSpot,2024-04-30,Medium (51-200),Retail,Professional,8.0,True
+1270,HubSpot,2024-03-21,Medium (51-200),Healthcare,Business,29.0,True
+1271,HubSpot,2024-05-14,Large (201-1000),Finance,Business,24.0,True
+1272,HubSpot,2024-04-04,Large (201-1000),Manufacturing,Business,25.0,True
+1273,HubSpot,2024-02-03,Medium (51-200),Manufacturing,Business,,True
+1274,HubSpot,2024-01-25,Small (1-50),Education,Professional,25.0,True
+1275,HubSpot,2024-04-05,Small (1-50),Education,Professional,27.0,True
+1276,HubSpot,2024-03-16,Medium (51-200),Finance,Business,29.0,False
+1277,HubSpot,2024-03-11,Enterprise (1000+),Retail,Enterprise,26.0,True
+1278,HubSpot,2024-05-04,Large (201-1000),Retail,Enterprise,,True
+1279,HubSpot,2024-03-26,Small (1-50),Healthcare,Professional,15.0,True
+1280,HubSpot,2024-02-02,Small (1-50),Finance,Starter,26.0,True
+1281,HubSpot,2024-05-04,Medium (51-200),Manufacturing,Business,13.0,True
+1282,HubSpot,2024-03-18,Enterprise (1000+),Finance,Enterprise,9.0,True
+1283,HubSpot,2024-03-19,Enterprise (1000+),Healthcare,Business,8.0,False
+1284,HubSpot,2024-03-18,Enterprise (1000+),Manufacturing,Enterprise,,False
+1285,HubSpot,2024-02-01,Large (201-1000),Retail,Enterprise,19.0,False
+1286,HubSpot,2024-03-26,Medium (51-200),Manufacturing,Business,19.0,True
+1287,HubSpot,2024-04-21,Large (201-1000),Healthcare,Business,19.0,True
+1288,HubSpot,2024-02-27,Large (201-1000),Healthcare,Business,19.0,True
+1289,HubSpot,2024-01-20,Small (1-50),Education,Starter,22.0,True
+1290,HubSpot,2024-02-03,Medium (51-200),Manufacturing,Business,19.0,True
+1291,HubSpot,2024-04-18,Large (201-1000),Manufacturing,Enterprise,24.0,True
+1292,HubSpot,2024-03-27,Large (201-1000),Technology,Enterprise,28.0,False
+1293,HubSpot,2024-03-08,Large (201-1000),Manufacturing,Business,27.0,True
+1294,HubSpot,2024-04-23,Medium (51-200),Manufacturing,Professional,23.0,True
+1295,HubSpot,2024-04-03,Enterprise (1000+),Education,Business,25.0,True
+1296,HubSpot,2024-01-29,Medium (51-200),Retail,Professional,11.0,True
+1297,HubSpot,2024-02-10,Enterprise (1000+),Education,Enterprise,29.0,True
+1298,HubSpot,2024-02-10,Large (201-1000),Manufacturing,Enterprise,12.0,True
+1299,HubSpot,2024-03-23,Large (201-1000),Education,Enterprise,30.0,True
+1300,HubSpot,2024-04-26,Large (201-1000),Healthcare,Enterprise,15.0,True
+1301,HubSpot,2024-02-12,Large (201-1000),Education,Enterprise,29.0,True
+1302,HubSpot,2024-03-16,Large (201-1000),Finance,Enterprise,,True
+1303,HubSpot,2024-03-03,Enterprise (1000+),Healthcare,Enterprise,16.0,True
+1304,HubSpot,2024-01-25,Large (201-1000),Education,Enterprise,22.0,True
+1305,HubSpot,2024-04-29,Large (201-1000),Healthcare,Enterprise,,True
+1306,HubSpot,2024-02-14,Medium (51-200),Education,Professional,14.0,True
+1307,HubSpot,2024-01-21,Small (1-50),Finance,Professional,10.0,True
+1308,HubSpot,2024-02-01,Small (1-50),Retail,Starter,22.0,True
+1309,HubSpot,2024-02-09,Large (201-1000),Finance,Enterprise,9.0,True
+1310,HubSpot,2024-02-13,Small (1-50),Retail,Starter,12.0,True
+1311,HubSpot,2024-01-19,Enterprise (1000+),Healthcare,Enterprise,16.0,True
+1312,HubSpot,2024-01-16,Large (201-1000),Finance,Business,27.0,True
+1313,HubSpot,2024-03-18,Medium (51-200),Finance,Business,10.0,True
+1314,HubSpot,2024-04-17,Enterprise (1000+),Education,Enterprise,30.0,True
+1315,HubSpot,2024-02-21,Medium (51-200),Manufacturing,Professional,19.0,True
+1316,HubSpot,2024-03-20,Large (201-1000),Retail,Business,12.0,True
+1317,HubSpot,2024-03-16,Large (201-1000),Technology,Business,14.0,True
+1318,HubSpot,2024-02-18,Large (201-1000),Manufacturing,Enterprise,7.0,True
+1319,HubSpot,2024-03-01,Medium (51-200),Education,Professional,,True
+1320,HubSpot,2024-03-06,Large (201-1000),Education,Business,16.0,True
+1321,HubSpot,2024-02-12,Medium (51-200),Retail,Professional,30.0,True
+1322,HubSpot,2024-03-02,Enterprise (1000+),Manufacturing,Enterprise,13.0,True
+1323,HubSpot,2024-04-11,Small (1-50),Manufacturing,Professional,9.0,True
+1324,HubSpot,2024-01-29,Small (1-50),Manufacturing,Starter,12.0,True
+1325,HubSpot,2024-03-21,Enterprise (1000+),Education,Business,25.0,True
+1326,HubSpot,2024-05-09,Enterprise (1000+),Retail,Business,,True
+1327,HubSpot,2024-03-27,Small (1-50),Education,Professional,30.0,False
+1328,HubSpot,2024-02-16,Small (1-50),Manufacturing,Starter,,True
+1329,HubSpot,2024-04-13,Small (1-50),Technology,Starter,22.0,False
+1330,HubSpot,2024-03-07,Medium (51-200),Education,Professional,27.0,True
+1331,HubSpot,2024-03-02,Enterprise (1000+),Retail,Enterprise,28.0,True
+1332,HubSpot,2024-05-05,Medium (51-200),Technology,Business,24.0,True
+1333,HubSpot,2024-01-31,Medium (51-200),Technology,Professional,21.0,True
+1334,HubSpot,2024-03-24,Enterprise (1000+),Healthcare,Enterprise,18.0,True
+1335,HubSpot,2024-02-08,Small (1-50),Education,Starter,7.0,True
+1336,HubSpot,2024-01-23,Small (1-50),Retail,Starter,29.0,True
+1337,HubSpot,2024-02-15,Small (1-50),Retail,Professional,13.0,True
+1338,HubSpot,2024-04-23,Small (1-50),Manufacturing,Starter,14.0,True
+1339,HubSpot,2024-04-17,Large (201-1000),Healthcare,Enterprise,11.0,True
+1340,HubSpot,2024-03-21,Medium (51-200),Finance,Business,24.0,True
+1341,HubSpot,2024-05-06,Medium (51-200),Manufacturing,Business,18.0,True
+1342,HubSpot,2024-04-09,Enterprise (1000+),Education,Enterprise,11.0,True
+1343,HubSpot,2024-02-07,Enterprise (1000+),Healthcare,Business,29.0,True
+1344,HubSpot,2024-03-14,Small (1-50),Retail,Professional,11.0,True
+1345,HubSpot,2024-02-16,Medium (51-200),Education,Business,,True
+1346,HubSpot,2024-03-02,Small (1-50),Technology,Starter,28.0,True
+1347,HubSpot,2024-01-20,Small (1-50),Manufacturing,Starter,24.0,True
+1348,HubSpot,2024-02-10,Large (201-1000),Technology,Enterprise,13.0,True
+1349,HubSpot,2024-01-30,Enterprise (1000+),Education,Business,13.0,True
+1350,HubSpot,2024-02-14,Large (201-1000),Retail,Enterprise,27.0,True
+1351,HubSpot,2024-02-17,Large (201-1000),Retail,Enterprise,,True
+1352,HubSpot,2024-03-15,Large (201-1000),Finance,Business,8.0,True
+1353,HubSpot,2024-02-12,Medium (51-200),Finance,Professional,25.0,True
+1354,HubSpot,2024-03-08,Large (201-1000),Healthcare,Business,19.0,True
+1355,HubSpot,2024-02-15,Enterprise (1000+),Finance,Enterprise,22.0,True
+1356,HubSpot,2024-04-06,Enterprise (1000+),Healthcare,Enterprise,18.0,True
+1357,HubSpot,2024-04-16,Enterprise (1000+),Manufacturing,Business,8.0,True
+1358,Pipedrive,2024-05-19,Small (1-50),Technology,Starter,27.0,True
+1359,Pipedrive,2024-05-01,Medium (51-200),Healthcare,Professional,18.0,False
+1360,Pipedrive,2024-04-22,Enterprise (1000+),Technology,Enterprise,,True
+1361,Pipedrive,2024-02-02,Small (1-50),Manufacturing,Professional,7.0,True
+1362,Pipedrive,2024-04-30,Enterprise (1000+),Technology,Business,23.0,True
+1363,Pipedrive,2024-02-25,Large (201-1000),Finance,Enterprise,9.0,True
+1364,Pipedrive,2024-03-23,Enterprise (1000+),Education,Business,28.0,True
+1365,Pipedrive,2024-02-11,Small (1-50),Retail,Starter,24.0,True
+1366,Pipedrive,2024-04-22,Small (1-50),Technology,Starter,20.0,True
+1367,Pipedrive,2024-03-14,Small (1-50),Healthcare,Starter,29.0,True
+1368,Pipedrive,2024-04-01,Large (201-1000),Technology,Business,15.0,True
+1369,Pipedrive,2024-04-13,Small (1-50),Finance,Starter,,True
+1370,Pipedrive,2024-02-19,Enterprise (1000+),Finance,Business,14.0,True
+1371,Pipedrive,2024-05-19,Enterprise (1000+),Retail,Enterprise,11.0,True
+1372,Pipedrive,2024-04-29,Small (1-50),Technology,Professional,,True
+1373,Pipedrive,2024-02-10,Large (201-1000),Finance,Enterprise,,True
+1374,Pipedrive,2024-03-29,Enterprise (1000+),Finance,Business,19.0,True
+1375,Pipedrive,2024-04-28,Enterprise (1000+),Manufacturing,Business,14.0,True
+1376,Pipedrive,2024-02-11,Large (201-1000),Retail,Business,27.0,True
+1377,Pipedrive,2024-03-21,Large (201-1000),Technology,Enterprise,,True
+1378,Pipedrive,2024-03-28,Large (201-1000),Technology,Enterprise,,True
+1379,Pipedrive,2024-03-29,Enterprise (1000+),Technology,Business,,True
+1380,Pipedrive,2024-04-17,Large (201-1000),Technology,Enterprise,19.0,True
+1381,Pipedrive,2024-05-03,Medium (51-200),Education,Professional,11.0,True
+1382,Pipedrive,2024-03-06,Enterprise (1000+),Technology,Business,15.0,True
+1383,Pipedrive,2024-04-02,Small (1-50),Finance,Professional,30.0,True
+1384,Pipedrive,2024-04-17,Medium (51-200),Technology,Business,,False
+1385,Pipedrive,2024-03-22,Large (201-1000),Finance,Enterprise,20.0,True
+1386,Pipedrive,2024-05-21,Medium (51-200),Finance,Business,29.0,True
+1387,Pipedrive,2024-03-12,Medium (51-200),Finance,Business,29.0,True
+1388,Pipedrive,2024-04-14,Medium (51-200),Retail,Business,19.0,True
+1389,Pipedrive,2024-05-30,Medium (51-200),Education,Professional,7.0,True
+1390,Pipedrive,2024-03-31,Medium (51-200),Finance,Business,9.0,True
+1391,Pipedrive,2024-05-12,Enterprise (1000+),Healthcare,Enterprise,14.0,True
+1392,Pipedrive,2024-02-20,Enterprise (1000+),Technology,Enterprise,26.0,True
+1393,Pipedrive,2024-03-23,Enterprise (1000+),Finance,Business,24.0,True
+1394,Pipedrive,2024-05-28,Small (1-50),Healthcare,Starter,18.0,True
+1395,Pipedrive,2024-04-19,Small (1-50),Finance,Professional,20.0,False
+1396,Pipedrive,2024-02-13,Large (201-1000),Manufacturing,Business,24.0,True
+1397,Pipedrive,2024-04-14,Medium (51-200),Finance,Business,28.0,True
+1398,Pipedrive,2024-04-05,Medium (51-200),Technology,Business,16.0,True
+1399,Pipedrive,2024-02-11,Small (1-50),Finance,Starter,21.0,True
+1400,Pipedrive,2024-04-07,Enterprise (1000+),Retail,Enterprise,,True
+1401,Pipedrive,2024-03-29,Large (201-1000),Finance,Business,,True
+1402,Pipedrive,2024-02-03,Large (201-1000),Education,Business,30.0,True
+1403,Pipedrive,2024-02-23,Medium (51-200),Manufacturing,Business,21.0,True
+1404,Pipedrive,2024-03-23,Medium (51-200),Education,Professional,19.0,False
+1405,Pipedrive,2024-04-19,Medium (51-200),Manufacturing,Business,7.0,True
+1406,Pipedrive,2024-02-27,Large (201-1000),Manufacturing,Business,,True
+1407,Pipedrive,2024-02-24,Large (201-1000),Healthcare,Enterprise,15.0,True
+1408,Pipedrive,2024-04-03,Large (201-1000),Manufacturing,Enterprise,10.0,True
+1409,Pipedrive,2024-05-19,Enterprise (1000+),Education,Business,16.0,True
+1410,Pipedrive,2024-04-16,Small (1-50),Finance,Starter,,True
+1411,Pipedrive,2024-02-24,Large (201-1000),Manufacturing,Business,26.0,True
+1412,Pipedrive,2024-03-21,Enterprise (1000+),Retail,Business,29.0,True
+1413,Pipedrive,2024-05-30,Medium (51-200),Retail,Professional,12.0,True
+1414,Pipedrive,2024-03-29,Small (1-50),Technology,Professional,13.0,True
+1415,Pipedrive,2024-04-12,Enterprise (1000+),Education,Enterprise,29.0,True
+1416,Pipedrive,2024-04-03,Medium (51-200),Manufacturing,Professional,,True
+1417,Pipedrive,2024-03-09,Small (1-50),Healthcare,Professional,12.0,True
+1418,Pipedrive,2024-04-13,Enterprise (1000+),Manufacturing,Business,,True
+1419,Pipedrive,2024-05-16,Large (201-1000),Education,Business,13.0,True
+1420,Pipedrive,2024-02-14,Medium (51-200),Technology,Business,18.0,True
+1421,Pipedrive,2024-02-12,Enterprise (1000+),Healthcare,Business,30.0,True
+1422,Pipedrive,2024-03-16,Enterprise (1000+),Manufacturing,Business,,True
+1423,Pipedrive,2024-02-27,Small (1-50),Manufacturing,Professional,24.0,True
+1424,Pipedrive,2024-05-01,Large (201-1000),Manufacturing,Enterprise,23.0,True
+1425,Pipedrive,2024-04-27,Small (1-50),Retail,Starter,15.0,True
+1426,Pipedrive,2024-02-17,Medium (51-200),Healthcare,Professional,14.0,True
+1427,Pipedrive,2024-04-27,Enterprise (1000+),Healthcare,Enterprise,15.0,True
+1428,Pipedrive,2024-03-20,Enterprise (1000+),Education,Business,9.0,True
+1429,Pipedrive,2024-05-06,Large (201-1000),Retail,Enterprise,17.0,True
+1430,Pipedrive,2024-05-22,Small (1-50),Education,Professional,18.0,True
+1431,Pipedrive,2024-05-12,Enterprise (1000+),Retail,Business,22.0,True
+1432,Pipedrive,2024-05-17,Large (201-1000),Manufacturing,Enterprise,25.0,True
+1433,Pipedrive,2024-05-11,Large (201-1000),Technology,Business,,True
+1434,Pipedrive,2024-03-30,Small (1-50),Healthcare,Starter,7.0,True
+1435,Pipedrive,2024-03-26,Medium (51-200),Education,Professional,15.0,False
+1436,Pipedrive,2024-03-18,Large (201-1000),Finance,Business,27.0,True
+1437,Pipedrive,2024-03-22,Large (201-1000),Retail,Business,29.0,False
+1438,Pipedrive,2024-02-28,Enterprise (1000+),Healthcare,Business,23.0,True
+1439,Pipedrive,2024-02-02,Small (1-50),Technology,Professional,20.0,True
+1440,Pipedrive,2024-04-02,Small (1-50),Retail,Starter,,True
+1441,Pipedrive,2024-02-14,Large (201-1000),Finance,Enterprise,,True
+1442,Pipedrive,2024-05-07,Medium (51-200),Technology,Professional,7.0,True
+1443,Pipedrive,2024-02-22,Enterprise (1000+),Education,Enterprise,30.0,True
+1444,Pipedrive,2024-03-24,Enterprise (1000+),Technology,Business,11.0,True
+1445,Pipedrive,2024-04-16,Enterprise (1000+),Retail,Enterprise,11.0,True
+1446,Pipedrive,2024-04-23,Small (1-50),Manufacturing,Starter,30.0,True
+1447,Pipedrive,2024-05-10,Small (1-50),Healthcare,Professional,23.0,True
+1448,Pipedrive,2024-03-22,Large (201-1000),Healthcare,Business,10.0,True
+1449,Pipedrive,2024-04-22,Small (1-50),Finance,Starter,11.0,True
+1450,Pipedrive,2024-05-18,Enterprise (1000+),Manufacturing,Enterprise,22.0,True
+1451,Pipedrive,2024-05-09,Small (1-50),Manufacturing,Starter,,True
+1452,Pipedrive,2024-02-06,Small (1-50),Manufacturing,Professional,29.0,True
+1453,Pipedrive,2024-03-25,Enterprise (1000+),Technology,Enterprise,24.0,True
+1454,Pipedrive,2024-03-07,Small (1-50),Technology,Professional,13.0,True
+1455,Pipedrive,2024-02-20,Large (201-1000),Manufacturing,Enterprise,27.0,True
+1456,Pipedrive,2024-02-09,Large (201-1000),Education,Enterprise,14.0,False
+1457,Pipedrive,2024-02-12,Enterprise (1000+),Retail,Business,8.0,True
+1458,Pipedrive,2024-05-05,Medium (51-200),Technology,Professional,29.0,False
+1459,Pipedrive,2024-04-04,Large (201-1000),Healthcare,Enterprise,30.0,True
+1460,Pipedrive,2024-03-06,Small (1-50),Finance,Starter,15.0,True
+1461,Pipedrive,2024-03-05,Small (1-50),Retail,Professional,8.0,True
+1462,Pipedrive,2024-04-13,Medium (51-200),Healthcare,Business,10.0,True
+1463,Pipedrive,2024-04-27,Small (1-50),Education,Starter,8.0,True
+1464,Pipedrive,2024-02-02,Medium (51-200),Retail,Professional,11.0,True
+1465,Pipedrive,2024-05-20,Small (1-50),Healthcare,Professional,20.0,True
+1466,Pipedrive,2024-03-12,Large (201-1000),Manufacturing,Business,23.0,True
+1467,Pipedrive,2024-02-07,Medium (51-200),Manufacturing,Professional,19.0,False
+1468,Pipedrive,2024-03-31,Large (201-1000),Finance,Enterprise,,True
+1469,Pipedrive,2024-03-19,Medium (51-200),Manufacturing,Business,30.0,True
+1470,Pipedrive,2024-03-31,Large (201-1000),Healthcare,Enterprise,24.0,True
+1471,Pipedrive,2024-03-03,Medium (51-200),Retail,Professional,,True
+1472,Pipedrive,2024-04-22,Small (1-50),Technology,Professional,19.0,True
+1473,Pipedrive,2024-05-04,Large (201-1000),Healthcare,Business,14.0,True
+1474,Pipedrive,2024-02-08,Medium (51-200),Technology,Business,,True
+1475,Pipedrive,2024-05-19,Enterprise (1000+),Retail,Enterprise,9.0,True
+1476,Pipedrive,2024-04-05,Medium (51-200),Technology,Business,8.0,True
+1477,Pipedrive,2024-02-17,Medium (51-200),Finance,Business,19.0,True
+1478,Pipedrive,2024-05-05,Large (201-1000),Retail,Enterprise,9.0,True
+1479,Pipedrive,2024-02-18,Small (1-50),Technology,Starter,21.0,True
+1480,Pipedrive,2024-02-16,Large (201-1000),Retail,Business,15.0,True
+1481,Pipedrive,2024-02-12,Medium (51-200),Education,Business,8.0,True
+1482,Pipedrive,2024-05-20,Large (201-1000),Technology,Business,18.0,True
+1483,Pipedrive,2024-02-07,Large (201-1000),Healthcare,Enterprise,,True
+1484,Pipedrive,2024-03-29,Medium (51-200),Retail,Professional,,True
+1485,Pipedrive,2024-02-16,Small (1-50),Healthcare,Starter,,True
+1486,Pipedrive,2024-03-19,Small (1-50),Technology,Professional,,False
+1487,Pipedrive,2024-05-26,Enterprise (1000+),Technology,Business,17.0,True
+1488,Pipedrive,2024-05-31,Enterprise (1000+),Healthcare,Business,20.0,True
+1489,Pipedrive,2024-03-22,Enterprise (1000+),Retail,Business,12.0,True
+1490,Pipedrive,2024-05-27,Medium (51-200),Finance,Business,11.0,False
+1491,Pipedrive,2024-04-20,Medium (51-200),Retail,Business,24.0,True
+1492,Pipedrive,2024-02-12,Large (201-1000),Healthcare,Enterprise,27.0,True
+1493,Pipedrive,2024-04-08,Medium (51-200),Retail,Professional,18.0,True
+1494,Pipedrive,2024-05-11,Enterprise (1000+),Manufacturing,Enterprise,19.0,True
+1495,Pipedrive,2024-02-04,Large (201-1000),Technology,Business,15.0,False
+1496,Pipedrive,2024-04-01,Large (201-1000),Healthcare,Business,,True
+1497,Pipedrive,2024-03-06,Small (1-50),Manufacturing,Starter,19.0,True
+1498,Pipedrive,2024-05-18,Medium (51-200),Healthcare,Professional,30.0,True
+1499,Pipedrive,2024-05-27,Small (1-50),Manufacturing,Professional,25.0,True
+1500,Pipedrive,2024-05-18,Enterprise (1000+),Healthcare,Enterprise,9.0,False
+1501,Pipedrive,2024-04-18,Medium (51-200),Manufacturing,Professional,17.0,True
+1502,Pipedrive,2024-02-26,Medium (51-200),Education,Business,17.0,False
+1503,Pipedrive,2024-02-19,Medium (51-200),Manufacturing,Professional,9.0,True
+1504,Pipedrive,2024-05-31,Enterprise (1000+),Finance,Business,11.0,True
+1505,Pipedrive,2024-05-04,Enterprise (1000+),Education,Enterprise,29.0,True
+1506,Pipedrive,2024-04-29,Large (201-1000),Education,Business,12.0,True
+1507,Pipedrive,2024-05-04,Large (201-1000),Healthcare,Business,29.0,True
+1508,Pipedrive,2024-03-22,Small (1-50),Manufacturing,Starter,26.0,True
+1509,Pipedrive,2024-04-13,Small (1-50),Healthcare,Professional,9.0,True
+1510,Pipedrive,2024-03-12,Medium (51-200),Education,Professional,30.0,True
+1511,Pipedrive,2024-03-29,Small (1-50),Healthcare,Professional,9.0,True
+1512,Pipedrive,2024-05-11,Small (1-50),Technology,Starter,30.0,True
+1513,Pipedrive,2024-02-22,Enterprise (1000+),Retail,Enterprise,19.0,False
+1514,Pipedrive,2024-04-02,Medium (51-200),Retail,Professional,,True
+1515,Pipedrive,2024-03-09,Small (1-50),Finance,Professional,9.0,True
+1516,Pipedrive,2024-05-24,Enterprise (1000+),Education,Business,,True
+1517,Pipedrive,2024-02-12,Large (201-1000),Education,Enterprise,,True
+1518,Pipedrive,2024-02-22,Enterprise (1000+),Technology,Business,,True
+1519,Pipedrive,2024-02-25,Enterprise (1000+),Education,Enterprise,14.0,False
+1520,Pipedrive,2024-03-22,Enterprise (1000+),Technology,Business,20.0,False
+1521,Pipedrive,2024-05-16,Enterprise (1000+),Technology,Business,,True
+1522,Pipedrive,2024-03-09,Small (1-50),Technology,Professional,19.0,True
+1523,Pipedrive,2024-05-25,Large (201-1000),Education,Business,12.0,True
+1524,Pipedrive,2024-03-20,Large (201-1000),Retail,Business,,True
+1525,Pipedrive,2024-03-05,Medium (51-200),Manufacturing,Business,,True
+1526,Pipedrive,2024-04-26,Small (1-50),Education,Starter,24.0,True
+1527,Pipedrive,2024-05-07,Medium (51-200),Retail,Professional,20.0,True
+1528,Pipedrive,2024-04-28,Enterprise (1000+),Retail,Business,19.0,True
+1529,Pipedrive,2024-05-02,Small (1-50),Technology,Starter,21.0,True
+1530,Pipedrive,2024-02-22,Medium (51-200),Healthcare,Professional,,False
+1531,Pipedrive,2024-04-28,Enterprise (1000+),Education,Business,,True
+1532,Pipedrive,2024-03-12,Small (1-50),Retail,Starter,24.0,True
+1533,Pipedrive,2024-03-07,Enterprise (1000+),Education,Business,23.0,True
+1534,Pipedrive,2024-02-15,Enterprise (1000+),Healthcare,Business,25.0,True
+1535,Pipedrive,2024-05-31,Small (1-50),Manufacturing,Starter,16.0,True
+1536,Pipedrive,2024-05-23,Large (201-1000),Finance,Enterprise,22.0,True
+1537,Pipedrive,2024-04-01,Small (1-50),Finance,Starter,26.0,True
+1538,Pipedrive,2024-04-29,Enterprise (1000+),Retail,Business,17.0,True
+1539,Pipedrive,2024-02-07,Enterprise (1000+),Finance,Enterprise,,True
+1540,Pipedrive,2024-03-10,Large (201-1000),Retail,Enterprise,28.0,False
+1541,Pipedrive,2024-05-22,Medium (51-200),Finance,Professional,21.0,True
+1542,Pipedrive,2024-03-13,Large (201-1000),Manufacturing,Enterprise,13.0,True
+1543,Pipedrive,2024-05-27,Enterprise (1000+),Manufacturing,Enterprise,8.0,True
+1544,Pipedrive,2024-02-21,Small (1-50),Education,Professional,11.0,True
+1545,Zoho CRM,2024-06-30,Small (1-50),Healthcare,Starter,13.0,True
+1546,Zoho CRM,2024-04-10,Small (1-50),Technology,Professional,29.0,True
+1547,Zoho CRM,2024-04-26,Enterprise (1000+),Education,Enterprise,28.0,False
+1548,Zoho CRM,2024-04-26,Enterprise (1000+),Healthcare,Enterprise,22.0,True
+1549,Zoho CRM,2024-04-23,Large (201-1000),Finance,Business,29.0,False
+1550,Zoho CRM,2024-03-13,Enterprise (1000+),Healthcare,Business,13.0,True
+1551,Zoho CRM,2024-05-31,Medium (51-200),Finance,Professional,23.0,False
+1552,Zoho CRM,2024-06-17,Small (1-50),Healthcare,Professional,26.0,True
+1553,Zoho CRM,2024-04-07,Large (201-1000),Education,Enterprise,27.0,True
+1554,Zoho CRM,2024-07-02,Enterprise (1000+),Retail,Enterprise,21.0,True
+1555,Zoho CRM,2024-05-15,Enterprise (1000+),Technology,Business,28.0,True
+1556,Zoho CRM,2024-06-25,Large (201-1000),Finance,Enterprise,22.0,False
+1557,Zoho CRM,2024-04-14,Large (201-1000),Finance,Enterprise,27.0,True
+1558,Zoho CRM,2024-03-29,Medium (51-200),Manufacturing,Professional,17.0,True
+1559,Zoho CRM,2024-06-10,Small (1-50),Finance,Professional,20.0,True
+1560,Zoho CRM,2024-06-12,Small (1-50),Finance,Starter,14.0,True
+1561,Zoho CRM,2024-05-30,Enterprise (1000+),Manufacturing,Enterprise,12.0,True
+1562,Zoho CRM,2024-06-30,Medium (51-200),Technology,Business,30.0,True
+1563,Zoho CRM,2024-06-21,Medium (51-200),Education,Business,,True
+1564,Zoho CRM,2024-06-13,Large (201-1000),Finance,Enterprise,25.0,True
+1565,Zoho CRM,2024-06-26,Small (1-50),Technology,Professional,25.0,True
+1566,Zoho CRM,2024-05-28,Small (1-50),Healthcare,Professional,28.0,True
+1567,Zoho CRM,2024-04-17,Enterprise (1000+),Healthcare,Business,,True
+1568,Zoho CRM,2024-05-01,Enterprise (1000+),Finance,Business,12.0,True
+1569,Zoho CRM,2024-05-11,Large (201-1000),Finance,Business,7.0,True
+1570,Zoho CRM,2024-04-05,Medium (51-200),Retail,Professional,9.0,True
+1571,Zoho CRM,2024-05-04,Enterprise (1000+),Retail,Enterprise,19.0,False
+1572,Zoho CRM,2024-05-17,Medium (51-200),Technology,Business,23.0,True
+1573,Zoho CRM,2024-06-04,Small (1-50),Healthcare,Starter,18.0,True
+1574,Zoho CRM,2024-03-23,Enterprise (1000+),Healthcare,Enterprise,,False
+1575,Zoho CRM,2024-04-16,Enterprise (1000+),Retail,Enterprise,11.0,True
+1576,Zoho CRM,2024-07-03,Enterprise (1000+),Healthcare,Enterprise,19.0,False
+1577,Zoho CRM,2024-04-07,Medium (51-200),Education,Professional,,True
+1578,Zoho CRM,2024-03-25,Large (201-1000),Retail,Business,15.0,True
+1579,Zoho CRM,2024-05-28,Small (1-50),Education,Starter,,True
+1580,Zoho CRM,2024-03-16,Small (1-50),Retail,Professional,24.0,True
+1581,Zoho CRM,2024-06-07,Medium (51-200),Education,Professional,7.0,True
+1582,Zoho CRM,2024-06-02,Small (1-50),Manufacturing,Professional,11.0,True
+1583,Zoho CRM,2024-07-03,Small (1-50),Finance,Starter,,False
+1584,Zoho CRM,2024-04-04,Medium (51-200),Manufacturing,Business,18.0,True
+1585,Zoho CRM,2024-04-16,Medium (51-200),Manufacturing,Professional,13.0,True
+1586,Zoho CRM,2024-05-10,Large (201-1000),Technology,Business,,False
+1587,Zoho CRM,2024-03-24,Enterprise (1000+),Technology,Business,9.0,True
+1588,Zoho CRM,2024-03-22,Large (201-1000),Retail,Business,16.0,True
+1589,Zoho CRM,2024-03-16,Small (1-50),Technology,Starter,18.0,True
+1590,Zoho CRM,2024-04-19,Enterprise (1000+),Technology,Business,8.0,False
+1591,Zoho CRM,2024-03-27,Medium (51-200),Finance,Business,26.0,True
+1592,Zoho CRM,2024-06-11,Small (1-50),Finance,Professional,19.0,True
+1593,Zoho CRM,2024-05-07,Large (201-1000),Education,Enterprise,20.0,True
+1594,Zoho CRM,2024-06-20,Medium (51-200),Healthcare,Professional,8.0,True
+1595,Zoho CRM,2024-06-26,Medium (51-200),Retail,Professional,22.0,True
+1596,Zoho CRM,2024-06-04,Enterprise (1000+),Manufacturing,Business,18.0,True
+1597,Zoho CRM,2024-06-28,Medium (51-200),Retail,Business,,True
+1598,Zoho CRM,2024-03-15,Small (1-50),Education,Professional,29.0,True
+1599,Zoho CRM,2024-05-16,Medium (51-200),Manufacturing,Business,29.0,True
+1600,Zoho CRM,2024-05-04,Medium (51-200),Finance,Business,27.0,True
+1601,Zoho CRM,2024-06-25,Small (1-50),Education,Starter,23.0,True
+1602,Zoho CRM,2024-06-27,Enterprise (1000+),Technology,Business,17.0,True
+1603,Zoho CRM,2024-04-14,Small (1-50),Manufacturing,Starter,19.0,True
+1604,Zoho CRM,2024-03-20,Enterprise (1000+),Manufacturing,Enterprise,22.0,True
+1605,Zoho CRM,2024-03-25,Enterprise (1000+),Technology,Business,8.0,True
+1606,Zoho CRM,2024-03-10,Small (1-50),Manufacturing,Professional,27.0,True
+1607,Zoho CRM,2024-04-22,Large (201-1000),Healthcare,Business,17.0,True
+1608,Zoho CRM,2024-05-28,Enterprise (1000+),Education,Enterprise,10.0,True
+1609,Zoho CRM,2024-04-07,Small (1-50),Finance,Professional,16.0,True
+1610,Zoho CRM,2024-04-26,Small (1-50),Healthcare,Starter,29.0,True
+1611,Zoho CRM,2024-05-01,Small (1-50),Manufacturing,Professional,10.0,True
+1612,Zoho CRM,2024-04-29,Medium (51-200),Healthcare,Business,10.0,True
+1613,Zoho CRM,2024-03-15,Small (1-50),Retail,Professional,23.0,True
+1614,Zoho CRM,2024-05-12,Small (1-50),Manufacturing,Starter,25.0,True
+1615,Zoho CRM,2024-05-14,Medium (51-200),Education,Professional,10.0,True
+1616,Zoho CRM,2024-05-25,Large (201-1000),Retail,Enterprise,29.0,True
+1617,Zoho CRM,2024-04-14,Enterprise (1000+),Finance,Enterprise,11.0,True
+1618,Zoho CRM,2024-05-26,Large (201-1000),Education,Enterprise,24.0,True
+1619,Zoho CRM,2024-04-04,Medium (51-200),Education,Business,28.0,True
+1620,Zoho CRM,2024-06-08,Medium (51-200),Education,Business,,True
+1621,Zoho CRM,2024-05-10,Enterprise (1000+),Retail,Enterprise,23.0,False
+1622,Zoho CRM,2024-04-27,Medium (51-200),Education,Professional,,True
+1623,Zoho CRM,2024-06-18,Medium (51-200),Education,Business,8.0,True
+1624,Zoho CRM,2024-04-16,Medium (51-200),Finance,Professional,10.0,True
+1625,Zoho CRM,2024-06-04,Medium (51-200),Healthcare,Business,29.0,True
+1626,Zoho CRM,2024-06-03,Small (1-50),Retail,Professional,28.0,True
+1627,Zoho CRM,2024-05-19,Small (1-50),Education,Starter,26.0,True
+1628,Zoho CRM,2024-06-28,Enterprise (1000+),Education,Business,27.0,True
+1629,Zoho CRM,2024-05-24,Medium (51-200),Finance,Professional,28.0,False
+1630,Zoho CRM,2024-04-01,Small (1-50),Technology,Professional,24.0,True
+1631,Zoho CRM,2024-03-30,Large (201-1000),Finance,Business,11.0,False
+1632,Zoho CRM,2024-07-06,Large (201-1000),Education,Business,28.0,True
+1633,Zoho CRM,2024-06-19,Large (201-1000),Education,Business,14.0,True
+1634,Zoho CRM,2024-05-15,Small (1-50),Retail,Starter,19.0,False
+1635,Zoho CRM,2024-04-07,Medium (51-200),Finance,Business,13.0,True
+1636,Zoho CRM,2024-05-28,Enterprise (1000+),Technology,Business,21.0,True
+1637,Zoho CRM,2024-05-31,Medium (51-200),Education,Professional,19.0,True
+1638,Zoho CRM,2024-07-08,Small (1-50),Finance,Professional,16.0,False
+1639,Zoho CRM,2024-05-15,Large (201-1000),Retail,Enterprise,,True
+1640,Zoho CRM,2024-04-03,Large (201-1000),Technology,Business,24.0,True
+1641,Zoho CRM,2024-05-29,Small (1-50),Education,Starter,13.0,True
+1642,Zoho CRM,2024-05-03,Small (1-50),Manufacturing,Starter,30.0,True
+1643,Zoho CRM,2024-05-31,Small (1-50),Technology,Starter,17.0,False
+1644,Zoho CRM,2024-03-19,Small (1-50),Finance,Starter,25.0,True
+1645,Zoho CRM,2024-07-04,Large (201-1000),Retail,Enterprise,19.0,True
+1646,Zoho CRM,2024-03-12,Enterprise (1000+),Manufacturing,Business,,True
+1647,Zoho CRM,2024-03-18,Small (1-50),Finance,Starter,10.0,True
+1648,Zoho CRM,2024-06-05,Large (201-1000),Finance,Business,21.0,True
+1649,Zoho CRM,2024-06-23,Small (1-50),Healthcare,Professional,11.0,True
+1650,Zoho CRM,2024-06-19,Large (201-1000),Finance,Business,30.0,True
+1651,Zoho CRM,2024-03-11,Medium (51-200),Technology,Professional,,True
+1652,Zoho CRM,2024-05-17,Small (1-50),Healthcare,Professional,30.0,True
+1653,Zoho CRM,2024-05-01,Medium (51-200),Healthcare,Professional,15.0,True
+1654,Zoho CRM,2024-04-02,Small (1-50),Education,Professional,16.0,True
+1655,Zoho CRM,2024-04-11,Small (1-50),Education,Starter,17.0,True
+1656,Zoho CRM,2024-06-03,Medium (51-200),Finance,Professional,13.0,True
+1657,Zoho CRM,2024-05-06,Large (201-1000),Education,Enterprise,25.0,True
+1658,Zoho CRM,2024-06-21,Large (201-1000),Healthcare,Enterprise,,True
+1659,Zoho CRM,2024-04-07,Enterprise (1000+),Finance,Enterprise,,True
+1660,Zoho CRM,2024-06-30,Enterprise (1000+),Retail,Enterprise,16.0,True
+1661,Zoho CRM,2024-03-23,Medium (51-200),Finance,Professional,11.0,True
+1662,Zoho CRM,2024-04-04,Large (201-1000),Education,Business,,False
+1663,Zoho CRM,2024-05-13,Small (1-50),Manufacturing,Professional,8.0,True
+1664,Zoho CRM,2024-05-18,Enterprise (1000+),Finance,Business,25.0,True
+1665,Zoho CRM,2024-04-16,Medium (51-200),Manufacturing,Business,19.0,True
+1666,Zoho CRM,2024-03-11,Medium (51-200),Manufacturing,Professional,,True
+1667,Zoho CRM,2024-05-21,Medium (51-200),Finance,Business,,True
+1668,Zoho CRM,2024-04-08,Small (1-50),Finance,Professional,28.0,True
+1669,Zoho CRM,2024-07-04,Large (201-1000),Retail,Enterprise,8.0,False
+1670,Zoho CRM,2024-06-01,Large (201-1000),Education,Business,27.0,True
+1671,Zoho CRM,2024-06-24,Large (201-1000),Retail,Business,18.0,True
+1672,Zoho CRM,2024-07-02,Small (1-50),Retail,Professional,14.0,True
+1673,Zoho CRM,2024-04-24,Large (201-1000),Retail,Enterprise,7.0,True
+1674,Zoho CRM,2024-03-27,Enterprise (1000+),Healthcare,Business,,True
+1675,Zoho CRM,2024-04-06,Medium (51-200),Healthcare,Professional,29.0,True
+1676,Zoho CRM,2024-06-02,Medium (51-200),Finance,Business,22.0,True
+1677,Zoho CRM,2024-05-10,Medium (51-200),Education,Professional,7.0,True
+1678,Zoho CRM,2024-03-26,Medium (51-200),Education,Professional,25.0,True
+1679,Zoho CRM,2024-03-31,Large (201-1000),Manufacturing,Business,26.0,True
+1680,Zoho CRM,2024-05-30,Small (1-50),Technology,Professional,26.0,True
+1681,Zoho CRM,2024-06-29,Enterprise (1000+),Healthcare,Business,26.0,True
+1682,Zoho CRM,2024-05-23,Medium (51-200),Healthcare,Business,17.0,True
+1683,Zoho CRM,2024-05-25,Small (1-50),Retail,Starter,10.0,False
+1684,Zoho CRM,2024-05-15,Enterprise (1000+),Manufacturing,Business,,True
+1685,Zoho CRM,2024-05-27,Small (1-50),Technology,Starter,11.0,True
+1686,Zoho CRM,2024-05-18,Small (1-50),Manufacturing,Professional,8.0,True
+1687,Zoho CRM,2024-05-03,Medium (51-200),Retail,Business,30.0,True
+1688,Zoho CRM,2024-06-25,Small (1-50),Healthcare,Professional,14.0,True
+1689,Zoho CRM,2024-03-20,Large (201-1000),Finance,Enterprise,29.0,True
+1690,Zoho CRM,2024-03-10,Small (1-50),Retail,Starter,29.0,True
+1691,Zoho CRM,2024-05-01,Large (201-1000),Healthcare,Business,25.0,True
+1692,Zoho CRM,2024-06-27,Enterprise (1000+),Manufacturing,Enterprise,28.0,True
+1693,Zoho CRM,2024-04-05,Enterprise (1000+),Healthcare,Enterprise,24.0,True
+1694,Zoho CRM,2024-04-18,Large (201-1000),Education,Enterprise,,True
+1695,Zoho CRM,2024-03-25,Medium (51-200),Education,Business,10.0,True
+1696,Zoho CRM,2024-04-30,Large (201-1000),Healthcare,Business,27.0,False
+1697,Zoho CRM,2024-03-21,Medium (51-200),Manufacturing,Business,9.0,True
+1698,Zoho CRM,2024-04-26,Small (1-50),Education,Starter,19.0,True
+1699,Zoho CRM,2024-05-15,Large (201-1000),Healthcare,Business,21.0,False
+1700,Zoho CRM,2024-06-26,Large (201-1000),Technology,Business,23.0,True
+1701,Zoho CRM,2024-04-08,Medium (51-200),Finance,Professional,7.0,True
+1702,Zoho CRM,2024-03-21,Large (201-1000),Finance,Enterprise,19.0,True
+1703,Zoho CRM,2024-05-15,Small (1-50),Technology,Starter,30.0,True
+1704,Zoho CRM,2024-07-05,Large (201-1000),Finance,Enterprise,13.0,True
+1705,Zoho CRM,2024-04-30,Small (1-50),Healthcare,Professional,10.0,True
+1706,Zoho CRM,2024-05-13,Large (201-1000),Technology,Enterprise,15.0,True
+1707,Zoho CRM,2024-06-22,Large (201-1000),Retail,Enterprise,14.0,True
+1708,Zoho CRM,2024-06-17,Enterprise (1000+),Manufacturing,Enterprise,22.0,False
+1709,Zoho CRM,2024-03-18,Enterprise (1000+),Education,Business,17.0,True
+1710,Zoho CRM,2024-04-24,Small (1-50),Healthcare,Professional,19.0,True
+1711,Zoho CRM,2024-06-23,Large (201-1000),Manufacturing,Business,22.0,True
+1712,Zoho CRM,2024-04-06,Large (201-1000),Education,Business,13.0,True
+1713,Zoho CRM,2024-04-04,Medium (51-200),Finance,Professional,13.0,True
+1714,Zoho CRM,2024-06-25,Large (201-1000),Technology,Business,,False
+1715,Zoho CRM,2024-06-02,Enterprise (1000+),Manufacturing,Business,22.0,True
+1716,Zoho CRM,2024-04-19,Enterprise (1000+),Retail,Enterprise,23.0,True
+1717,Zoho CRM,2024-04-07,Medium (51-200),Manufacturing,Professional,22.0,True
+1718,Zoho CRM,2024-03-14,Large (201-1000),Education,Enterprise,21.0,True
+1719,Zoho CRM,2024-06-07,Enterprise (1000+),Education,Enterprise,,True
+1720,Zoho CRM,2024-04-27,Small (1-50),Finance,Professional,15.0,True
+1721,Zoho CRM,2024-04-12,Medium (51-200),Retail,Business,17.0,True
+1722,Zoho CRM,2024-05-12,Enterprise (1000+),Retail,Business,18.0,True
+1723,Zoho CRM,2024-04-30,Large (201-1000),Healthcare,Enterprise,25.0,True
+1724,Zoho CRM,2024-06-22,Small (1-50),Healthcare,Professional,19.0,True
+1725,Zoho CRM,2024-06-20,Medium (51-200),Technology,Business,22.0,True
+1726,Zoho CRM,2024-07-02,Large (201-1000),Finance,Enterprise,25.0,False
+1727,Zoho CRM,2024-03-22,Medium (51-200),Healthcare,Professional,22.0,True
+1728,Zoho CRM,2024-03-22,Enterprise (1000+),Finance,Enterprise,24.0,True
+1729,Zoho CRM,2024-06-21,Large (201-1000),Technology,Enterprise,18.0,True
+1730,Zoho CRM,2024-05-26,Medium (51-200),Finance,Professional,28.0,True
+1731,Zoho CRM,2024-06-17,Enterprise (1000+),Retail,Business,21.0,True
+1732,Zoho CRM,2024-03-28,Medium (51-200),Retail,Business,25.0,True
+1733,Zoho CRM,2024-07-04,Small (1-50),Healthcare,Starter,17.0,True
+1734,Zoho CRM,2024-04-16,Large (201-1000),Finance,Enterprise,18.0,True
+1735,Zoho CRM,2024-05-15,Enterprise (1000+),Healthcare,Enterprise,7.0,True
+1736,Zoho CRM,2024-04-09,Large (201-1000),Healthcare,Business,10.0,False
+1737,Zoho CRM,2024-07-07,Enterprise (1000+),Technology,Business,23.0,True
+1738,Zoho CRM,2024-03-20,Small (1-50),Manufacturing,Professional,27.0,True
+1739,Zoho CRM,2024-04-28,Large (201-1000),Healthcare,Business,21.0,True
+1740,Zoho CRM,2024-03-26,Medium (51-200),Technology,Professional,17.0,True
+1741,Zoho CRM,2024-05-08,Large (201-1000),Healthcare,Enterprise,29.0,True
+1742,Zoho CRM,2024-05-24,Enterprise (1000+),Manufacturing,Enterprise,24.0,True
+1743,Zoho CRM,2024-04-23,Enterprise (1000+),Technology,Business,18.0,True
+1744,Zoho CRM,2024-03-29,Large (201-1000),Technology,Business,11.0,True
+1745,Zoho CRM,2024-05-09,Small (1-50),Retail,Professional,20.0,True
+1746,Zoho CRM,2024-05-25,Medium (51-200),Manufacturing,Professional,20.0,True
+1747,Zoho CRM,2024-05-04,Enterprise (1000+),Healthcare,Business,27.0,True
+1748,Zoho CRM,2024-04-27,Medium (51-200),Technology,Business,14.0,True
+1749,Zoho CRM,2024-06-20,Large (201-1000),Education,Enterprise,15.0,True
+1750,Zoho CRM,2024-06-27,Small (1-50),Healthcare,Starter,27.0,True
+1751,Zoho CRM,2024-05-06,Large (201-1000),Healthcare,Enterprise,11.0,False
+1752,Zoho CRM,2024-05-17,Small (1-50),Technology,Starter,11.0,True
+1753,Zoho CRM,2024-06-11,Small (1-50),Technology,Starter,22.0,True
+1754,Zoho CRM,2024-05-02,Large (201-1000),Finance,Enterprise,8.0,True
+1755,Zoho CRM,2024-06-25,Medium (51-200),Finance,Professional,9.0,True
+1756,Zoho CRM,2024-04-02,Medium (51-200),Retail,Business,10.0,True
+1757,Zoho CRM,2024-06-09,Medium (51-200),Retail,Business,8.0,True
+1758,Zoho CRM,2024-06-12,Small (1-50),Retail,Starter,16.0,True
+1759,Zoho CRM,2024-03-30,Small (1-50),Finance,Starter,16.0,True
+1760,Zoho CRM,2024-07-01,Small (1-50),Technology,Starter,20.0,True
+1761,Zoho CRM,2024-03-31,Large (201-1000),Retail,Business,7.0,True
+1762,Zoho CRM,2024-05-23,Enterprise (1000+),Finance,Business,14.0,True
+1763,Zoho CRM,2024-03-21,Large (201-1000),Technology,Business,11.0,True
+1764,Zoho CRM,2024-06-19,Small (1-50),Retail,Starter,24.0,True
+1765,Zoho CRM,2024-06-14,Large (201-1000),Education,Enterprise,29.0,True
+1766,Zoho CRM,2024-06-10,Medium (51-200),Technology,Business,21.0,True
+1767,Zoho CRM,2024-05-18,Enterprise (1000+),Manufacturing,Business,18.0,True
+1768,Zoho CRM,2024-05-08,Large (201-1000),Technology,Business,21.0,True
+1769,Zoho CRM,2024-04-12,Large (201-1000),Technology,Enterprise,23.0,True
+1770,Zoho CRM,2024-04-02,Small (1-50),Manufacturing,Professional,30.0,False
+1771,Zoho CRM,2024-05-17,Enterprise (1000+),Manufacturing,Business,24.0,True
+1772,Zoho CRM,2024-04-15,Large (201-1000),Education,Enterprise,10.0,True
+1773,Zoho CRM,2024-03-18,Small (1-50),Healthcare,Starter,13.0,False
+1774,Zoho CRM,2024-04-03,Small (1-50),Manufacturing,Starter,19.0,True
+1775,Zoho CRM,2024-05-16,Large (201-1000),Finance,Business,29.0,False
+1776,Zoho CRM,2024-07-07,Medium (51-200),Technology,Business,27.0,False
+1777,Zoho CRM,2024-05-20,Enterprise (1000+),Education,Enterprise,,True
+1778,Zoho CRM,2024-05-16,Small (1-50),Finance,Starter,,True
+1779,Zoho CRM,2024-05-15,Small (1-50),Education,Starter,19.0,True
+1780,Zoho CRM,2024-05-16,Medium (51-200),Manufacturing,Professional,20.0,True
+1781,Zoho CRM,2024-06-16,Large (201-1000),Education,Enterprise,10.0,True
+1782,Zoho CRM,2024-04-02,Enterprise (1000+),Education,Enterprise,26.0,True
+1783,Zoho CRM,2024-04-24,Large (201-1000),Finance,Enterprise,27.0,True
+1784,Zoho CRM,2024-06-10,Large (201-1000),Manufacturing,Business,19.0,True
+1785,Zoho CRM,2024-07-06,Large (201-1000),Retail,Enterprise,19.0,False
+1786,Zoho CRM,2024-03-14,Large (201-1000),Manufacturing,Business,,True
+1787,Zoho CRM,2024-03-10,Large (201-1000),Healthcare,Business,7.0,True
+1788,Zoho CRM,2024-07-08,Large (201-1000),Technology,Business,,True
+1789,Zoho CRM,2024-03-27,Large (201-1000),Manufacturing,Enterprise,15.0,True
+1790,Zoho CRM,2024-03-21,Enterprise (1000+),Education,Business,,True
+1791,Zoho CRM,2024-05-10,Medium (51-200),Education,Business,10.0,True
+1792,Zoho CRM,2024-04-17,Small (1-50),Technology,Professional,17.0,True
+1793,Zoho CRM,2024-06-22,Enterprise (1000+),Technology,Enterprise,14.0,True
+1794,Zoho CRM,2024-06-26,Small (1-50),Technology,Professional,8.0,True
+1795,Zoho CRM,2024-05-21,Medium (51-200),Manufacturing,Business,11.0,False
+1796,Zoho CRM,2024-06-11,Enterprise (1000+),Manufacturing,Enterprise,9.0,True
+1797,Zoho CRM,2024-04-16,Enterprise (1000+),Healthcare,Business,22.0,True
+1798,Zoho CRM,2024-03-16,Enterprise (1000+),Technology,Enterprise,20.0,True
+1799,Zoho CRM,2024-03-26,Medium (51-200),Manufacturing,Business,19.0,True
+1800,Zoho CRM,2024-04-04,Medium (51-200),Technology,Professional,20.0,True
+1801,Zoho CRM,2024-07-06,Small (1-50),Education,Starter,18.0,True
+1802,Zoho CRM,2024-04-20,Large (201-1000),Finance,Business,18.0,True
+1803,Zoho CRM,2024-06-20,Enterprise (1000+),Retail,Business,,True
+1804,Zoho CRM,2024-04-04,Large (201-1000),Education,Business,10.0,True
+1805,Zoho CRM,2024-04-10,Medium (51-200),Technology,Business,10.0,True
+1806,Zoho CRM,2024-05-09,Small (1-50),Healthcare,Professional,13.0,True
+1807,Zoho CRM,2024-05-15,Large (201-1000),Manufacturing,Enterprise,11.0,True
+1808,Zoho CRM,2024-06-03,Small (1-50),Manufacturing,Professional,23.0,False
+1809,Zoho CRM,2024-03-31,Small (1-50),Healthcare,Professional,26.0,True
+1810,Zoho CRM,2024-05-08,Small (1-50),Retail,Starter,28.0,True
+1811,Zoho CRM,2024-06-02,Large (201-1000),Technology,Business,27.0,True
+1812,Zoho CRM,2024-04-27,Small (1-50),Retail,Professional,24.0,False
+1813,Zoho CRM,2024-04-04,Enterprise (1000+),Technology,Business,23.0,True
+1814,Zoho CRM,2024-05-11,Enterprise (1000+),Technology,Business,18.0,True
+1815,Zoho CRM,2024-04-17,Medium (51-200),Technology,Business,19.0,True
+1816,Zoho CRM,2024-06-22,Small (1-50),Healthcare,Professional,19.0,True
+1817,Zoho CRM,2024-03-21,Enterprise (1000+),Retail,Business,11.0,True
+1818,Zoho CRM,2024-04-18,Large (201-1000),Manufacturing,Enterprise,,True
+1819,Zoho CRM,2024-05-23,Medium (51-200),Finance,Professional,23.0,True
+1820,Zoho CRM,2024-05-04,Medium (51-200),Finance,Professional,,True
+1821,Zoho CRM,2024-06-10,Small (1-50),Finance,Starter,11.0,True
+1822,Zoho CRM,2024-06-15,Large (201-1000),Retail,Enterprise,30.0,True
+1823,Zoho CRM,2024-07-02,Large (201-1000),Healthcare,Business,,True
+1824,Zoho CRM,2024-06-15,Large (201-1000),Manufacturing,Business,28.0,False
+1825,Zoho CRM,2024-03-20,Enterprise (1000+),Manufacturing,Business,22.0,True
+1826,Zoho CRM,2024-04-26,Medium (51-200),Retail,Business,12.0,True
+1827,Zoho CRM,2024-03-14,Enterprise (1000+),Finance,Business,14.0,True
+1828,Zoho CRM,2024-04-04,Medium (51-200),Healthcare,Professional,21.0,True
+1829,Microsoft Dynamics 365,2024-07-02,Large (201-1000),Healthcare,Enterprise,8.0,True
+1830,Microsoft Dynamics 365,2024-07-19,Enterprise (1000+),Retail,Enterprise,30.0,True
+1831,Microsoft Dynamics 365,2024-06-12,Small (1-50),Retail,Starter,8.0,True
+1832,Microsoft Dynamics 365,2024-05-06,Enterprise (1000+),Manufacturing,Business,27.0,True
+1833,Microsoft Dynamics 365,2024-04-29,Large (201-1000),Retail,Enterprise,16.0,True
+1834,Microsoft Dynamics 365,2024-05-29,Large (201-1000),Education,Business,11.0,True
+1835,Microsoft Dynamics 365,2024-06-26,Enterprise (1000+),Education,Business,12.0,True
+1836,Microsoft Dynamics 365,2024-08-03,Medium (51-200),Retail,Business,7.0,True
+1837,Microsoft Dynamics 365,2024-06-19,Medium (51-200),Technology,Business,29.0,True
+1838,Microsoft Dynamics 365,2024-07-05,Medium (51-200),Technology,Professional,,True
+1839,Microsoft Dynamics 365,2024-05-21,Small (1-50),Education,Professional,23.0,True
+1840,Microsoft Dynamics 365,2024-04-25,Enterprise (1000+),Technology,Enterprise,17.0,True
+1841,Microsoft Dynamics 365,2024-06-28,Medium (51-200),Healthcare,Professional,29.0,False
+1842,Microsoft Dynamics 365,2024-05-14,Large (201-1000),Finance,Enterprise,10.0,True
+1843,Microsoft Dynamics 365,2024-04-30,Small (1-50),Technology,Professional,22.0,True
+1844,Microsoft Dynamics 365,2024-04-05,Enterprise (1000+),Healthcare,Business,22.0,True
+1845,Microsoft Dynamics 365,2024-05-31,Small (1-50),Healthcare,Starter,15.0,True
+1846,Microsoft Dynamics 365,2024-06-15,Medium (51-200),Healthcare,Professional,,True
+1847,Microsoft Dynamics 365,2024-04-09,Medium (51-200),Education,Professional,26.0,True
+1848,Microsoft Dynamics 365,2024-07-31,Small (1-50),Technology,Starter,12.0,True
+1849,Microsoft Dynamics 365,2024-05-11,Medium (51-200),Education,Business,8.0,False
+1850,Microsoft Dynamics 365,2024-05-13,Large (201-1000),Retail,Enterprise,20.0,True
+1851,Microsoft Dynamics 365,2024-04-13,Large (201-1000),Healthcare,Enterprise,,True
+1852,Microsoft Dynamics 365,2024-05-17,Enterprise (1000+),Education,Business,8.0,False
+1853,Microsoft Dynamics 365,2024-07-07,Small (1-50),Education,Professional,29.0,True
+1854,Microsoft Dynamics 365,2024-06-21,Large (201-1000),Manufacturing,Enterprise,26.0,True
+1855,Microsoft Dynamics 365,2024-04-21,Enterprise (1000+),Retail,Enterprise,26.0,True
+1856,Microsoft Dynamics 365,2024-05-12,Medium (51-200),Technology,Professional,,True
+1857,Microsoft Dynamics 365,2024-04-20,Medium (51-200),Retail,Business,,True
+1858,Microsoft Dynamics 365,2024-07-17,Medium (51-200),Education,Professional,16.0,True
+1859,Microsoft Dynamics 365,2024-04-13,Large (201-1000),Manufacturing,Enterprise,7.0,False
+1860,Microsoft Dynamics 365,2024-05-17,Large (201-1000),Education,Enterprise,7.0,True
+1861,Microsoft Dynamics 365,2024-04-29,Large (201-1000),Education,Enterprise,22.0,True
+1862,Microsoft Dynamics 365,2024-06-26,Medium (51-200),Healthcare,Business,24.0,True
+1863,Microsoft Dynamics 365,2024-06-03,Enterprise (1000+),Manufacturing,Business,30.0,True
+1864,Microsoft Dynamics 365,2024-06-15,Small (1-50),Manufacturing,Starter,18.0,False
+1865,Microsoft Dynamics 365,2024-04-24,Large (201-1000),Finance,Business,27.0,True
+1866,Microsoft Dynamics 365,2024-04-26,Enterprise (1000+),Manufacturing,Business,,True
+1867,Microsoft Dynamics 365,2024-05-14,Large (201-1000),Finance,Business,22.0,True
+1868,Microsoft Dynamics 365,2024-05-22,Enterprise (1000+),Healthcare,Enterprise,12.0,False
+1869,Microsoft Dynamics 365,2024-07-14,Small (1-50),Technology,Starter,7.0,True
+1870,Microsoft Dynamics 365,2024-07-29,Medium (51-200),Finance,Professional,30.0,True
+1871,Microsoft Dynamics 365,2024-05-14,Large (201-1000),Technology,Business,23.0,True
+1872,Microsoft Dynamics 365,2024-04-21,Medium (51-200),Retail,Professional,23.0,False
+1873,Microsoft Dynamics 365,2024-05-14,Small (1-50),Finance,Starter,8.0,False
+1874,Microsoft Dynamics 365,2024-07-12,Large (201-1000),Manufacturing,Business,27.0,True
+1875,Microsoft Dynamics 365,2024-05-16,Medium (51-200),Finance,Professional,17.0,True
+1876,Microsoft Dynamics 365,2024-06-29,Small (1-50),Healthcare,Professional,10.0,False
+1877,Microsoft Dynamics 365,2024-06-23,Small (1-50),Manufacturing,Starter,17.0,True
+1878,Microsoft Dynamics 365,2024-08-03,Large (201-1000),Healthcare,Business,,True
+1879,Microsoft Dynamics 365,2024-05-18,Enterprise (1000+),Healthcare,Business,,True
+1880,Microsoft Dynamics 365,2024-04-11,Small (1-50),Technology,Professional,,True
+1881,Microsoft Dynamics 365,2024-07-04,Enterprise (1000+),Finance,Enterprise,13.0,True
+1882,Microsoft Dynamics 365,2024-06-29,Small (1-50),Manufacturing,Professional,,True
+1883,Microsoft Dynamics 365,2024-07-31,Enterprise (1000+),Retail,Business,27.0,True
+1884,Microsoft Dynamics 365,2024-06-03,Enterprise (1000+),Healthcare,Business,,True
+1885,Microsoft Dynamics 365,2024-05-08,Large (201-1000),Healthcare,Enterprise,28.0,True
+1886,Microsoft Dynamics 365,2024-07-24,Large (201-1000),Retail,Enterprise,,True
+1887,Microsoft Dynamics 365,2024-05-19,Enterprise (1000+),Healthcare,Enterprise,18.0,True
+1888,Microsoft Dynamics 365,2024-04-21,Small (1-50),Education,Professional,17.0,True
+1889,Microsoft Dynamics 365,2024-04-14,Large (201-1000),Retail,Enterprise,14.0,True
+1890,Microsoft Dynamics 365,2024-06-14,Medium (51-200),Retail,Business,,True
+1891,Microsoft Dynamics 365,2024-07-02,Enterprise (1000+),Manufacturing,Enterprise,24.0,True
+1892,Microsoft Dynamics 365,2024-04-27,Small (1-50),Technology,Professional,21.0,True
+1893,Microsoft Dynamics 365,2024-04-17,Enterprise (1000+),Finance,Business,9.0,True
+1894,Microsoft Dynamics 365,2024-07-01,Enterprise (1000+),Retail,Enterprise,8.0,False
+1895,Microsoft Dynamics 365,2024-07-18,Medium (51-200),Healthcare,Professional,21.0,True
+1896,Microsoft Dynamics 365,2024-05-24,Enterprise (1000+),Healthcare,Business,17.0,True
+1897,Microsoft Dynamics 365,2024-07-15,Large (201-1000),Education,Enterprise,18.0,True
+1898,Microsoft Dynamics 365,2024-06-18,Small (1-50),Healthcare,Professional,8.0,True
+1899,Microsoft Dynamics 365,2024-06-14,Small (1-50),Education,Starter,18.0,False
+1900,Microsoft Dynamics 365,2024-05-11,Small (1-50),Retail,Starter,19.0,True
+1901,Microsoft Dynamics 365,2024-07-05,Enterprise (1000+),Retail,Enterprise,13.0,True
+1902,Microsoft Dynamics 365,2024-06-04,Medium (51-200),Manufacturing,Professional,18.0,True
+1903,Microsoft Dynamics 365,2024-04-24,Large (201-1000),Healthcare,Business,,True
+1904,Microsoft Dynamics 365,2024-04-23,Enterprise (1000+),Healthcare,Enterprise,,True
+1905,Microsoft Dynamics 365,2024-05-28,Enterprise (1000+),Manufacturing,Enterprise,23.0,True
+1906,Microsoft Dynamics 365,2024-07-18,Enterprise (1000+),Finance,Enterprise,20.0,True
+1907,Microsoft Dynamics 365,2024-06-17,Enterprise (1000+),Education,Business,20.0,True
+1908,Microsoft Dynamics 365,2024-06-17,Large (201-1000),Technology,Business,29.0,True
+1909,Microsoft Dynamics 365,2024-06-18,Enterprise (1000+),Healthcare,Business,23.0,True
+1910,Microsoft Dynamics 365,2024-07-10,Large (201-1000),Manufacturing,Enterprise,,True
+1911,Microsoft Dynamics 365,2024-04-16,Medium (51-200),Education,Business,28.0,False
+1912,Microsoft Dynamics 365,2024-06-25,Large (201-1000),Finance,Business,7.0,True
+1913,Microsoft Dynamics 365,2024-06-09,Enterprise (1000+),Retail,Enterprise,16.0,True
+1914,Microsoft Dynamics 365,2024-04-09,Large (201-1000),Technology,Enterprise,25.0,True
+1915,Microsoft Dynamics 365,2024-04-11,Large (201-1000),Finance,Business,11.0,True
+1916,Microsoft Dynamics 365,2024-07-22,Large (201-1000),Healthcare,Enterprise,15.0,True
+1917,Microsoft Dynamics 365,2024-04-06,Small (1-50),Manufacturing,Starter,28.0,True
+1918,Microsoft Dynamics 365,2024-07-17,Medium (51-200),Education,Business,12.0,True
+1919,Microsoft Dynamics 365,2024-07-24,Small (1-50),Technology,Professional,26.0,True
+1920,Microsoft Dynamics 365,2024-04-24,Enterprise (1000+),Retail,Enterprise,21.0,True
+1921,Microsoft Dynamics 365,2024-04-26,Medium (51-200),Technology,Business,10.0,False
+1922,Microsoft Dynamics 365,2024-06-03,Enterprise (1000+),Finance,Enterprise,24.0,True
+1923,Microsoft Dynamics 365,2024-07-01,Enterprise (1000+),Finance,Enterprise,,True
+1924,Microsoft Dynamics 365,2024-04-06,Large (201-1000),Retail,Enterprise,23.0,True
+1925,Microsoft Dynamics 365,2024-04-10,Small (1-50),Retail,Professional,27.0,True
+1926,Microsoft Dynamics 365,2024-05-17,Large (201-1000),Technology,Enterprise,25.0,True
+1927,Microsoft Dynamics 365,2024-07-12,Medium (51-200),Manufacturing,Professional,29.0,True
+1928,Microsoft Dynamics 365,2024-05-15,Small (1-50),Technology,Starter,,False
+1929,Microsoft Dynamics 365,2024-04-18,Enterprise (1000+),Healthcare,Enterprise,15.0,True
+1930,Microsoft Dynamics 365,2024-04-08,Small (1-50),Manufacturing,Starter,13.0,True
+1931,Microsoft Dynamics 365,2024-06-25,Small (1-50),Technology,Starter,11.0,True
+1932,Microsoft Dynamics 365,2024-07-11,Medium (51-200),Education,Professional,16.0,True
+1933,Microsoft Dynamics 365,2024-08-02,Small (1-50),Finance,Professional,29.0,True
+1934,Microsoft Dynamics 365,2024-07-12,Large (201-1000),Healthcare,Enterprise,15.0,True
+1935,Microsoft Dynamics 365,2024-05-23,Enterprise (1000+),Technology,Enterprise,15.0,True
+1936,Microsoft Dynamics 365,2024-04-13,Enterprise (1000+),Manufacturing,Business,27.0,True
+1937,Microsoft Dynamics 365,2024-04-23,Enterprise (1000+),Manufacturing,Business,21.0,True
+1938,Microsoft Dynamics 365,2024-04-18,Small (1-50),Technology,Starter,15.0,True
+1939,Microsoft Dynamics 365,2024-04-07,Enterprise (1000+),Education,Business,8.0,True
+1940,Microsoft Dynamics 365,2024-05-09,Medium (51-200),Retail,Business,23.0,True
+1941,Microsoft Dynamics 365,2024-07-12,Enterprise (1000+),Retail,Enterprise,30.0,True
+1942,Microsoft Dynamics 365,2024-07-14,Small (1-50),Technology,Starter,29.0,True
+1943,Microsoft Dynamics 365,2024-06-05,Small (1-50),Finance,Professional,19.0,False
+1944,Microsoft Dynamics 365,2024-06-26,Small (1-50),Manufacturing,Professional,17.0,False
+1945,Microsoft Dynamics 365,2024-06-02,Large (201-1000),Healthcare,Business,19.0,True
+1946,Microsoft Dynamics 365,2024-05-13,Enterprise (1000+),Education,Business,22.0,False
+1947,Microsoft Dynamics 365,2024-06-24,Enterprise (1000+),Healthcare,Business,,False
+1948,Microsoft Dynamics 365,2024-06-19,Medium (51-200),Retail,Business,,True
+1949,Microsoft Dynamics 365,2024-05-14,Enterprise (1000+),Technology,Enterprise,,False
+1950,Microsoft Dynamics 365,2024-07-14,Small (1-50),Technology,Professional,27.0,True
+1951,Microsoft Dynamics 365,2024-06-02,Medium (51-200),Technology,Professional,,True
+1952,Microsoft Dynamics 365,2024-06-27,Small (1-50),Manufacturing,Professional,,True
+1953,Microsoft Dynamics 365,2024-04-21,Small (1-50),Education,Starter,,True
+1954,Microsoft Dynamics 365,2024-07-15,Small (1-50),Manufacturing,Professional,25.0,False
+1955,Microsoft Dynamics 365,2024-07-18,Small (1-50),Retail,Starter,26.0,True
+1956,Microsoft Dynamics 365,2024-07-16,Medium (51-200),Finance,Business,30.0,True
+1957,Microsoft Dynamics 365,2024-05-16,Small (1-50),Finance,Starter,13.0,True
+1958,Microsoft Dynamics 365,2024-06-19,Medium (51-200),Technology,Business,,True
+1959,Microsoft Dynamics 365,2024-05-28,Medium (51-200),Manufacturing,Business,14.0,True
+1960,Microsoft Dynamics 365,2024-04-10,Medium (51-200),Education,Professional,12.0,False
+1961,Microsoft Dynamics 365,2024-06-06,Small (1-50),Technology,Starter,9.0,True
+1962,Microsoft Dynamics 365,2024-06-19,Large (201-1000),Education,Enterprise,22.0,True
+1963,Microsoft Dynamics 365,2024-05-01,Medium (51-200),Manufacturing,Business,14.0,True
+1964,Microsoft Dynamics 365,2024-06-22,Small (1-50),Education,Starter,9.0,True
+1965,Microsoft Dynamics 365,2024-07-14,Large (201-1000),Retail,Enterprise,,True
+1966,Microsoft Dynamics 365,2024-04-20,Small (1-50),Manufacturing,Professional,21.0,True
+1967,Microsoft Dynamics 365,2024-06-28,Medium (51-200),Technology,Business,11.0,True
+1968,Microsoft Dynamics 365,2024-07-30,Enterprise (1000+),Healthcare,Enterprise,8.0,False
+1969,Microsoft Dynamics 365,2024-05-21,Large (201-1000),Retail,Business,26.0,True
+1970,Microsoft Dynamics 365,2024-07-11,Enterprise (1000+),Technology,Business,24.0,True
+1971,Microsoft Dynamics 365,2024-07-14,Small (1-50),Manufacturing,Professional,,True
+1972,Microsoft Dynamics 365,2024-07-06,Enterprise (1000+),Retail,Enterprise,28.0,True
+1973,Microsoft Dynamics 365,2024-05-04,Small (1-50),Healthcare,Professional,,True
+1974,Microsoft Dynamics 365,2024-07-25,Medium (51-200),Healthcare,Business,,True
+1975,Microsoft Dynamics 365,2024-04-11,Enterprise (1000+),Healthcare,Business,21.0,True
+1976,Microsoft Dynamics 365,2024-05-22,Medium (51-200),Education,Business,18.0,True
+1977,Microsoft Dynamics 365,2024-04-30,Large (201-1000),Technology,Business,8.0,True
+1978,Microsoft Dynamics 365,2024-04-19,Enterprise (1000+),Retail,Enterprise,17.0,True
+1979,Microsoft Dynamics 365,2024-05-12,Medium (51-200),Manufacturing,Professional,14.0,False
+1980,Microsoft Dynamics 365,2024-07-23,Enterprise (1000+),Manufacturing,Business,21.0,True
+1981,Microsoft Dynamics 365,2024-07-07,Enterprise (1000+),Healthcare,Business,25.0,True
+1982,Microsoft Dynamics 365,2024-08-01,Medium (51-200),Retail,Professional,8.0,True
+1983,Microsoft Dynamics 365,2024-07-07,Small (1-50),Manufacturing,Professional,29.0,True
+1984,Microsoft Dynamics 365,2024-06-01,Enterprise (1000+),Technology,Business,7.0,True
+1985,Microsoft Dynamics 365,2024-05-27,Medium (51-200),Finance,Professional,27.0,True
+1986,Microsoft Dynamics 365,2024-04-07,Enterprise (1000+),Healthcare,Enterprise,25.0,True
+1987,Microsoft Dynamics 365,2024-04-08,Enterprise (1000+),Healthcare,Enterprise,19.0,True
+1988,Microsoft Dynamics 365,2024-07-25,Large (201-1000),Education,Enterprise,27.0,False
+1989,Microsoft Dynamics 365,2024-07-28,Large (201-1000),Finance,Business,15.0,True
+1990,Microsoft Dynamics 365,2024-06-22,Medium (51-200),Manufacturing,Professional,30.0,True
+1991,Microsoft Dynamics 365,2024-06-09,Large (201-1000),Technology,Business,21.0,True
+1992,Microsoft Dynamics 365,2024-05-21,Large (201-1000),Education,Business,9.0,True
+1993,Microsoft Dynamics 365,2024-07-13,Medium (51-200),Finance,Professional,10.0,True
+1994,Microsoft Dynamics 365,2024-07-08,Medium (51-200),Finance,Professional,15.0,True
+1995,Microsoft Dynamics 365,2024-05-29,Large (201-1000),Technology,Business,21.0,True
+1996,Microsoft Dynamics 365,2024-06-11,Small (1-50),Education,Professional,24.0,True
+1997,Microsoft Dynamics 365,2024-06-01,Large (201-1000),Healthcare,Business,21.0,False
+1998,Microsoft Dynamics 365,2024-05-25,Medium (51-200),Technology,Business,,True
+1999,Microsoft Dynamics 365,2024-07-03,Medium (51-200),Healthcare,Business,23.0,True
+2000,Microsoft Dynamics 365,2024-04-07,Large (201-1000),Education,Enterprise,11.0,True
+2001,Microsoft Dynamics 365,2024-05-28,Enterprise (1000+),Finance,Business,7.0,True
+2002,Microsoft Dynamics 365,2024-05-04,Large (201-1000),Manufacturing,Enterprise,27.0,True
+2003,Microsoft Dynamics 365,2024-06-06,Enterprise (1000+),Finance,Enterprise,16.0,True
+2004,Microsoft Dynamics 365,2024-05-08,Medium (51-200),Finance,Business,8.0,True
+2005,Microsoft Dynamics 365,2024-05-11,Enterprise (1000+),Manufacturing,Business,29.0,True
+2006,Microsoft Dynamics 365,2024-04-28,Medium (51-200),Healthcare,Professional,8.0,True
+2007,Microsoft Dynamics 365,2024-06-17,Medium (51-200),Finance,Business,13.0,True
+2008,Microsoft Dynamics 365,2024-04-09,Large (201-1000),Healthcare,Enterprise,24.0,True
+2009,Microsoft Dynamics 365,2024-06-12,Large (201-1000),Technology,Business,22.0,True
+2010,Microsoft Dynamics 365,2024-06-02,Large (201-1000),Technology,Business,24.0,True
+2011,Microsoft Dynamics 365,2024-05-17,Large (201-1000),Finance,Enterprise,25.0,True
+2012,Microsoft Dynamics 365,2024-07-16,Enterprise (1000+),Education,Enterprise,,True
+2013,Microsoft Dynamics 365,2024-04-10,Medium (51-200),Finance,Professional,,True
+2014,Microsoft Dynamics 365,2024-05-03,Enterprise (1000+),Technology,Enterprise,26.0,True
+2015,Microsoft Dynamics 365,2024-06-18,Medium (51-200),Healthcare,Business,,True
+2016,Microsoft Dynamics 365,2024-06-01,Small (1-50),Healthcare,Professional,26.0,True
+2017,Microsoft Dynamics 365,2024-08-03,Small (1-50),Retail,Professional,,True
+2018,Microsoft Dynamics 365,2024-05-22,Enterprise (1000+),Technology,Enterprise,18.0,True
+2019,Microsoft Dynamics 365,2024-06-01,Small (1-50),Education,Starter,30.0,True
+2020,Microsoft Dynamics 365,2024-07-16,Enterprise (1000+),Healthcare,Enterprise,20.0,True
+2021,Microsoft Dynamics 365,2024-05-28,Medium (51-200),Healthcare,Professional,22.0,True
+2022,Microsoft Dynamics 365,2024-06-11,Large (201-1000),Manufacturing,Business,9.0,False
+2023,Microsoft Dynamics 365,2024-06-25,Large (201-1000),Healthcare,Enterprise,29.0,True
+2024,Microsoft Dynamics 365,2024-07-31,Medium (51-200),Healthcare,Professional,16.0,True
+2025,Microsoft Dynamics 365,2024-04-10,Large (201-1000),Retail,Enterprise,21.0,True
+2026,Microsoft Dynamics 365,2024-07-15,Small (1-50),Finance,Starter,27.0,True
+2027,Microsoft Dynamics 365,2024-06-04,Small (1-50),Retail,Professional,29.0,True
+2028,Microsoft Dynamics 365,2024-04-08,Small (1-50),Retail,Professional,9.0,True
+2029,Microsoft Dynamics 365,2024-05-21,Enterprise (1000+),Finance,Enterprise,22.0,True
+2030,Microsoft Dynamics 365,2024-07-18,Small (1-50),Manufacturing,Professional,7.0,True
+2031,Microsoft Dynamics 365,2024-04-25,Small (1-50),Finance,Starter,29.0,True
+2032,Microsoft Dynamics 365,2024-04-25,Small (1-50),Finance,Professional,18.0,False
+2033,Microsoft Dynamics 365,2024-05-12,Small (1-50),Education,Starter,10.0,True
+2034,Microsoft Dynamics 365,2024-04-26,Large (201-1000),Education,Enterprise,15.0,True
+2035,Microsoft Dynamics 365,2024-07-02,Large (201-1000),Manufacturing,Business,11.0,False
+2036,Microsoft Dynamics 365,2024-06-10,Large (201-1000),Retail,Enterprise,12.0,False
+2037,Microsoft Dynamics 365,2024-04-24,Medium (51-200),Manufacturing,Professional,23.0,True
+2038,Microsoft Dynamics 365,2024-07-05,Small (1-50),Retail,Professional,10.0,True
+2039,Microsoft Dynamics 365,2024-08-01,Small (1-50),Finance,Professional,18.0,True
+2040,Microsoft Dynamics 365,2024-05-31,Large (201-1000),Education,Business,30.0,True
+2041,Microsoft Dynamics 365,2024-05-03,Medium (51-200),Education,Professional,11.0,True
+2042,Microsoft Dynamics 365,2024-04-15,Enterprise (1000+),Technology,Business,,True
+2043,Microsoft Dynamics 365,2024-05-30,Small (1-50),Technology,Starter,,True
+2044,Microsoft Dynamics 365,2024-06-19,Small (1-50),Technology,Professional,8.0,False
+2045,Microsoft Dynamics 365,2024-06-29,Small (1-50),Technology,Starter,13.0,True
+2046,Microsoft Dynamics 365,2024-04-30,Medium (51-200),Technology,Business,,True
+2047,Microsoft Dynamics 365,2024-08-03,Large (201-1000),Finance,Enterprise,23.0,True
+2048,Microsoft Dynamics 365,2024-06-22,Medium (51-200),Technology,Professional,7.0,True
+2049,Microsoft Dynamics 365,2024-07-05,Medium (51-200),Healthcare,Business,24.0,False
+2050,Microsoft Dynamics 365,2024-07-06,Small (1-50),Manufacturing,Starter,22.0,True
+2051,Microsoft Dynamics 365,2024-06-19,Medium (51-200),Education,Business,12.0,True
+2052,Microsoft Dynamics 365,2024-05-23,Enterprise (1000+),Manufacturing,Business,10.0,True
+2053,Microsoft Dynamics 365,2024-05-15,Small (1-50),Technology,Professional,22.0,True
+2054,Microsoft Dynamics 365,2024-07-04,Large (201-1000),Technology,Business,10.0,True
+2055,Microsoft Dynamics 365,2024-06-02,Large (201-1000),Healthcare,Enterprise,16.0,True
+2056,Microsoft Dynamics 365,2024-05-29,Medium (51-200),Retail,Professional,18.0,True
+2057,Microsoft Dynamics 365,2024-06-30,Enterprise (1000+),Retail,Business,28.0,True
+2058,Microsoft Dynamics 365,2024-04-20,Medium (51-200),Retail,Business,10.0,True
+2059,Microsoft Dynamics 365,2024-07-28,Medium (51-200),Finance,Professional,17.0,True
+2060,Microsoft Dynamics 365,2024-07-22,Enterprise (1000+),Healthcare,Business,30.0,True
+2061,Microsoft Dynamics 365,2024-07-11,Large (201-1000),Finance,Enterprise,26.0,True
+2062,Microsoft Dynamics 365,2024-06-06,Large (201-1000),Retail,Business,,True
+2063,Microsoft Dynamics 365,2024-06-07,Medium (51-200),Technology,Professional,,False
+2064,Microsoft Dynamics 365,2024-04-13,Enterprise (1000+),Healthcare,Business,28.0,True
+2065,Microsoft Dynamics 365,2024-05-13,Small (1-50),Education,Starter,22.0,True
+2066,Microsoft Dynamics 365,2024-04-30,Large (201-1000),Retail,Enterprise,24.0,True
+2067,Microsoft Dynamics 365,2024-07-24,Small (1-50),Retail,Starter,10.0,True
+2068,Microsoft Dynamics 365,2024-05-15,Enterprise (1000+),Retail,Enterprise,,True
+2069,Microsoft Dynamics 365,2024-06-28,Large (201-1000),Retail,Business,16.0,True
+2070,Microsoft Dynamics 365,2024-06-06,Small (1-50),Education,Professional,24.0,True
+2071,Microsoft Dynamics 365,2024-06-04,Medium (51-200),Retail,Professional,25.0,True
+2072,Microsoft Dynamics 365,2024-06-22,Large (201-1000),Finance,Enterprise,,True
+2073,Microsoft Dynamics 365,2024-04-21,Large (201-1000),Education,Enterprise,27.0,True
+2074,Microsoft Dynamics 365,2024-04-17,Enterprise (1000+),Finance,Enterprise,8.0,True
+2075,Microsoft Dynamics 365,2024-05-06,Medium (51-200),Manufacturing,Business,,True
+2076,Microsoft Dynamics 365,2024-07-25,Large (201-1000),Finance,Business,24.0,True
+2077,Microsoft Dynamics 365,2024-06-02,Enterprise (1000+),Finance,Enterprise,,True
+2078,Microsoft Dynamics 365,2024-04-07,Large (201-1000),Manufacturing,Enterprise,25.0,False
+2079,Microsoft Dynamics 365,2024-06-06,Small (1-50),Finance,Starter,28.0,True
+2080,Microsoft Dynamics 365,2024-06-22,Large (201-1000),Retail,Enterprise,27.0,True
+2081,Microsoft Dynamics 365,2024-07-14,Small (1-50),Finance,Starter,16.0,True
+2082,Microsoft Dynamics 365,2024-05-26,Medium (51-200),Education,Professional,10.0,True
+2083,Microsoft Dynamics 365,2024-05-09,Small (1-50),Retail,Professional,9.0,True
+2084,Microsoft Dynamics 365,2024-05-13,Large (201-1000),Education,Enterprise,13.0,True
+2085,Microsoft Dynamics 365,2024-05-07,Enterprise (1000+),Technology,Business,23.0,True
+2086,Microsoft Dynamics 365,2024-06-17,Enterprise (1000+),Education,Business,30.0,True
+2087,Microsoft Dynamics 365,2024-05-09,Enterprise (1000+),Manufacturing,Business,21.0,True
+2088,Microsoft Dynamics 365,2024-04-24,Large (201-1000),Retail,Enterprise,9.0,True
+2089,Microsoft Dynamics 365,2024-07-22,Enterprise (1000+),Finance,Enterprise,15.0,True
+2090,Microsoft Dynamics 365,2024-05-05,Enterprise (1000+),Technology,Business,,False
+2091,Microsoft Dynamics 365,2024-07-16,Large (201-1000),Retail,Enterprise,20.0,True
+2092,Microsoft Dynamics 365,2024-07-29,Small (1-50),Healthcare,Starter,7.0,True
+2093,Microsoft Dynamics 365,2024-07-16,Large (201-1000),Education,Business,30.0,True
+2094,Microsoft Dynamics 365,2024-04-07,Small (1-50),Finance,Starter,9.0,True
+2095,Microsoft Dynamics 365,2024-05-27,Large (201-1000),Retail,Business,30.0,True
+2096,Microsoft Dynamics 365,2024-05-05,Small (1-50),Manufacturing,Starter,25.0,True
+2097,Microsoft Dynamics 365,2024-08-02,Large (201-1000),Technology,Enterprise,10.0,True
+2098,Microsoft Dynamics 365,2024-05-15,Large (201-1000),Education,Enterprise,20.0,True
+2099,Microsoft Dynamics 365,2024-04-18,Medium (51-200),Finance,Professional,15.0,True
+2100,Microsoft Dynamics 365,2024-04-12,Enterprise (1000+),Education,Enterprise,17.0,True
+2101,Microsoft Dynamics 365,2024-06-04,Medium (51-200),Healthcare,Business,29.0,True
+2102,Microsoft Dynamics 365,2024-05-14,Small (1-50),Education,Starter,8.0,True
+2103,Microsoft Dynamics 365,2024-07-14,Medium (51-200),Manufacturing,Business,27.0,True
+2104,ActiveCampaign,2024-09-12,Small (1-50),Retail,Starter,19.0,True
+2105,ActiveCampaign,2024-09-14,Large (201-1000),Technology,Enterprise,14.0,True
+2106,ActiveCampaign,2024-09-07,Medium (51-200),Education,Business,27.0,True
+2107,ActiveCampaign,2024-05-24,Large (201-1000),Retail,Business,20.0,True
+2108,ActiveCampaign,2024-07-01,Enterprise (1000+),Healthcare,Business,23.0,False
+2109,ActiveCampaign,2024-07-12,Large (201-1000),Education,Enterprise,,False
+2110,ActiveCampaign,2024-08-10,Medium (51-200),Education,Business,,True
+2111,ActiveCampaign,2024-08-08,Large (201-1000),Manufacturing,Enterprise,,True
+2112,ActiveCampaign,2024-07-25,Medium (51-200),Finance,Business,30.0,True
+2113,ActiveCampaign,2024-06-11,Large (201-1000),Healthcare,Enterprise,,True
+2114,ActiveCampaign,2024-07-09,Enterprise (1000+),Technology,Business,24.0,True
+2115,ActiveCampaign,2024-08-08,Medium (51-200),Retail,Professional,29.0,True
+2116,ActiveCampaign,2024-05-26,Enterprise (1000+),Manufacturing,Enterprise,9.0,True
+2117,ActiveCampaign,2024-06-10,Small (1-50),Education,Starter,21.0,True
+2118,ActiveCampaign,2024-07-22,Small (1-50),Education,Starter,15.0,True
+2119,ActiveCampaign,2024-07-22,Enterprise (1000+),Retail,Business,26.0,True
+2120,ActiveCampaign,2024-09-02,Large (201-1000),Retail,Business,11.0,False
+2121,ActiveCampaign,2024-06-22,Medium (51-200),Healthcare,Business,28.0,True
+2122,ActiveCampaign,2024-05-30,Small (1-50),Healthcare,Professional,29.0,True
+2123,ActiveCampaign,2024-06-16,Enterprise (1000+),Education,Enterprise,9.0,False
+2124,ActiveCampaign,2024-05-27,Small (1-50),Healthcare,Professional,18.0,True
+2125,ActiveCampaign,2024-09-17,Small (1-50),Finance,Starter,19.0,True
+2126,ActiveCampaign,2024-07-09,Large (201-1000),Manufacturing,Business,,True
+2127,ActiveCampaign,2024-06-10,Enterprise (1000+),Retail,Enterprise,,True
+2128,ActiveCampaign,2024-07-26,Enterprise (1000+),Finance,Business,,False
+2129,ActiveCampaign,2024-06-05,Enterprise (1000+),Education,Enterprise,20.0,True
+2130,ActiveCampaign,2024-09-09,Large (201-1000),Manufacturing,Enterprise,12.0,True
+2131,ActiveCampaign,2024-07-21,Medium (51-200),Technology,Business,8.0,True
+2132,ActiveCampaign,2024-05-24,Enterprise (1000+),Healthcare,Enterprise,20.0,False
+2133,ActiveCampaign,2024-09-11,Enterprise (1000+),Retail,Business,29.0,True
+2134,ActiveCampaign,2024-07-17,Enterprise (1000+),Education,Business,10.0,True
+2135,ActiveCampaign,2024-06-15,Large (201-1000),Healthcare,Business,15.0,True
+2136,ActiveCampaign,2024-08-12,Medium (51-200),Manufacturing,Professional,12.0,True
+2137,ActiveCampaign,2024-05-29,Medium (51-200),Education,Business,,True
+2138,ActiveCampaign,2024-06-25,Small (1-50),Finance,Professional,10.0,True
+2139,ActiveCampaign,2024-06-08,Small (1-50),Retail,Starter,28.0,True
+2140,ActiveCampaign,2024-08-08,Large (201-1000),Finance,Business,27.0,True
+2141,ActiveCampaign,2024-07-16,Large (201-1000),Healthcare,Business,27.0,True
+2142,ActiveCampaign,2024-08-30,Small (1-50),Manufacturing,Starter,19.0,False
+2143,ActiveCampaign,2024-06-21,Medium (51-200),Retail,Professional,,True
+2144,ActiveCampaign,2024-06-09,Enterprise (1000+),Finance,Enterprise,27.0,True
+2145,ActiveCampaign,2024-06-27,Enterprise (1000+),Education,Enterprise,16.0,True
+2146,ActiveCampaign,2024-08-05,Medium (51-200),Education,Business,,True
+2147,ActiveCampaign,2024-06-14,Enterprise (1000+),Retail,Enterprise,25.0,True
+2148,ActiveCampaign,2024-05-31,Enterprise (1000+),Manufacturing,Enterprise,27.0,True
+2149,ActiveCampaign,2024-05-25,Large (201-1000),Education,Enterprise,28.0,True
+2150,ActiveCampaign,2024-09-16,Enterprise (1000+),Finance,Business,9.0,True
+2151,ActiveCampaign,2024-07-20,Large (201-1000),Healthcare,Business,16.0,True
+2152,ActiveCampaign,2024-07-25,Enterprise (1000+),Manufacturing,Enterprise,,False
+2153,ActiveCampaign,2024-05-25,Small (1-50),Retail,Professional,,True
+2154,ActiveCampaign,2024-07-31,Large (201-1000),Finance,Enterprise,23.0,False
+2155,ActiveCampaign,2024-08-22,Enterprise (1000+),Healthcare,Business,8.0,False
+2156,ActiveCampaign,2024-09-09,Large (201-1000),Manufacturing,Enterprise,28.0,True
+2157,ActiveCampaign,2024-08-31,Large (201-1000),Healthcare,Enterprise,9.0,True
+2158,ActiveCampaign,2024-08-05,Large (201-1000),Retail,Business,7.0,True
+2159,ActiveCampaign,2024-05-21,Medium (51-200),Retail,Business,28.0,True
+2160,ActiveCampaign,2024-08-05,Enterprise (1000+),Manufacturing,Enterprise,26.0,True
+2161,ActiveCampaign,2024-08-14,Enterprise (1000+),Technology,Enterprise,,False
+2162,ActiveCampaign,2024-06-03,Small (1-50),Technology,Starter,27.0,True
+2163,ActiveCampaign,2024-06-19,Enterprise (1000+),Technology,Business,21.0,True
+2164,ActiveCampaign,2024-07-13,Small (1-50),Healthcare,Starter,30.0,True
+2165,ActiveCampaign,2024-07-21,Enterprise (1000+),Retail,Business,13.0,True
+2166,ActiveCampaign,2024-09-03,Enterprise (1000+),Finance,Business,,True
+2167,ActiveCampaign,2024-08-19,Enterprise (1000+),Retail,Enterprise,26.0,True
+2168,ActiveCampaign,2024-06-26,Small (1-50),Retail,Professional,25.0,True
+2169,ActiveCampaign,2024-09-16,Enterprise (1000+),Education,Business,,False
+2170,ActiveCampaign,2024-08-01,Large (201-1000),Finance,Business,20.0,True
+2171,ActiveCampaign,2024-06-03,Enterprise (1000+),Retail,Enterprise,7.0,True
+2172,ActiveCampaign,2024-08-20,Medium (51-200),Finance,Business,23.0,True
+2173,ActiveCampaign,2024-09-13,Large (201-1000),Healthcare,Enterprise,30.0,True
+2174,ActiveCampaign,2024-07-12,Large (201-1000),Healthcare,Enterprise,16.0,True
+2175,ActiveCampaign,2024-05-31,Enterprise (1000+),Healthcare,Business,26.0,True
+2176,ActiveCampaign,2024-08-29,Enterprise (1000+),Finance,Enterprise,24.0,False
+2177,ActiveCampaign,2024-05-22,Large (201-1000),Finance,Enterprise,12.0,True
+2178,ActiveCampaign,2024-09-11,Small (1-50),Finance,Starter,26.0,True
+2179,ActiveCampaign,2024-07-30,Medium (51-200),Finance,Business,18.0,True
+2180,ActiveCampaign,2024-08-26,Large (201-1000),Education,Business,26.0,True
+2181,ActiveCampaign,2024-08-18,Small (1-50),Retail,Professional,10.0,True
+2182,ActiveCampaign,2024-08-28,Small (1-50),Manufacturing,Starter,,True
+2183,ActiveCampaign,2024-09-08,Medium (51-200),Healthcare,Business,29.0,True
+2184,ActiveCampaign,2024-07-23,Enterprise (1000+),Healthcare,Business,17.0,True
+2185,ActiveCampaign,2024-06-04,Medium (51-200),Retail,Business,7.0,True
+2186,ActiveCampaign,2024-08-31,Enterprise (1000+),Finance,Enterprise,9.0,True
+2187,ActiveCampaign,2024-08-19,Enterprise (1000+),Education,Enterprise,11.0,True
+2188,ActiveCampaign,2024-07-26,Enterprise (1000+),Healthcare,Business,20.0,True
+2189,ActiveCampaign,2024-09-11,Enterprise (1000+),Technology,Enterprise,7.0,True
+2190,ActiveCampaign,2024-07-25,Small (1-50),Finance,Starter,12.0,True
+2191,ActiveCampaign,2024-07-09,Small (1-50),Manufacturing,Starter,,True
+2192,ActiveCampaign,2024-08-19,Large (201-1000),Retail,Enterprise,29.0,True
+2193,ActiveCampaign,2024-06-27,Large (201-1000),Technology,Enterprise,23.0,True
+2194,ActiveCampaign,2024-06-07,Enterprise (1000+),Education,Enterprise,24.0,True
+2195,ActiveCampaign,2024-08-07,Enterprise (1000+),Education,Enterprise,13.0,True
+2196,ActiveCampaign,2024-05-30,Small (1-50),Retail,Professional,30.0,True
+2197,ActiveCampaign,2024-07-25,Large (201-1000),Technology,Business,16.0,True
+2198,ActiveCampaign,2024-08-24,Medium (51-200),Technology,Professional,24.0,True
+2199,ActiveCampaign,2024-06-19,Large (201-1000),Manufacturing,Enterprise,,False
+2200,ActiveCampaign,2024-07-06,Large (201-1000),Technology,Enterprise,,True
+2201,ActiveCampaign,2024-06-04,Enterprise (1000+),Manufacturing,Enterprise,21.0,True
+2202,ActiveCampaign,2024-06-19,Medium (51-200),Finance,Business,29.0,True
+2203,ActiveCampaign,2024-06-06,Enterprise (1000+),Technology,Business,25.0,True
+2204,ActiveCampaign,2024-08-27,Large (201-1000),Technology,Enterprise,,True
+2205,ActiveCampaign,2024-07-11,Small (1-50),Technology,Starter,11.0,True
+2206,ActiveCampaign,2024-07-16,Small (1-50),Education,Professional,25.0,True
+2207,ActiveCampaign,2024-08-27,Enterprise (1000+),Manufacturing,Enterprise,20.0,True
+2208,ActiveCampaign,2024-08-16,Enterprise (1000+),Healthcare,Enterprise,,True
+2209,ActiveCampaign,2024-08-19,Enterprise (1000+),Education,Business,23.0,False
+2210,ActiveCampaign,2024-06-16,Enterprise (1000+),Technology,Enterprise,24.0,True
+2211,ActiveCampaign,2024-06-04,Enterprise (1000+),Technology,Business,16.0,False
+2212,ActiveCampaign,2024-06-08,Small (1-50),Finance,Professional,16.0,True
+2213,ActiveCampaign,2024-05-23,Medium (51-200),Manufacturing,Professional,16.0,True
+2214,ActiveCampaign,2024-06-16,Medium (51-200),Technology,Business,,True
+2215,ActiveCampaign,2024-09-08,Small (1-50),Retail,Professional,25.0,True
+2216,ActiveCampaign,2024-07-02,Enterprise (1000+),Education,Enterprise,11.0,True
+2217,ActiveCampaign,2024-07-23,Enterprise (1000+),Education,Enterprise,30.0,True
+2218,ActiveCampaign,2024-08-30,Enterprise (1000+),Healthcare,Enterprise,17.0,True
+2219,ActiveCampaign,2024-08-13,Enterprise (1000+),Education,Enterprise,,True
+2220,ActiveCampaign,2024-05-23,Large (201-1000),Education,Business,13.0,True
+2221,ActiveCampaign,2024-07-28,Small (1-50),Retail,Starter,7.0,True
+2222,ActiveCampaign,2024-09-16,Medium (51-200),Finance,Professional,14.0,True
+2223,ActiveCampaign,2024-09-04,Enterprise (1000+),Manufacturing,Business,19.0,True
+2224,ActiveCampaign,2024-07-21,Small (1-50),Retail,Professional,7.0,True
+2225,ActiveCampaign,2024-06-29,Enterprise (1000+),Technology,Enterprise,,False
+2226,ActiveCampaign,2024-06-10,Large (201-1000),Healthcare,Business,9.0,True
+2227,ActiveCampaign,2024-07-11,Medium (51-200),Manufacturing,Professional,12.0,False
+2228,ActiveCampaign,2024-05-27,Large (201-1000),Technology,Enterprise,20.0,True
+2229,ActiveCampaign,2024-06-22,Enterprise (1000+),Technology,Business,26.0,True
+2230,Salesforce,2024-08-19,Enterprise (1000+),Finance,Business,,True
+2231,Salesforce,2024-08-06,Small (1-50),Technology,Professional,14.0,True
+2232,Salesforce,2024-06-17,Large (201-1000),Healthcare,Business,27.0,True
+2233,Salesforce,2024-07-23,Enterprise (1000+),Technology,Enterprise,23.0,True
+2234,Salesforce,2024-07-03,Large (201-1000),Healthcare,Business,20.0,True
+2235,Salesforce,2024-08-25,Enterprise (1000+),Technology,Business,26.0,True
+2236,Salesforce,2024-07-06,Small (1-50),Retail,Starter,15.0,True
+2237,Salesforce,2024-08-02,Large (201-1000),Manufacturing,Business,16.0,False
+2238,Salesforce,2024-09-17,Small (1-50),Technology,Professional,10.0,True
+2239,Salesforce,2024-09-15,Large (201-1000),Healthcare,Enterprise,17.0,True
+2240,Salesforce,2024-07-28,Large (201-1000),Finance,Enterprise,17.0,True
+2241,Salesforce,2024-08-12,Large (201-1000),Education,Business,,True
+2242,Salesforce,2024-08-31,Enterprise (1000+),Technology,Business,20.0,True
+2243,Salesforce,2024-09-12,Enterprise (1000+),Manufacturing,Enterprise,,True
+2244,Salesforce,2024-09-06,Small (1-50),Education,Starter,10.0,True
+2245,Salesforce,2024-09-27,Enterprise (1000+),Retail,Enterprise,29.0,True
+2246,Salesforce,2024-06-30,Enterprise (1000+),Healthcare,Enterprise,14.0,True
+2247,Salesforce,2024-09-20,Large (201-1000),Healthcare,Enterprise,,True
+2248,Salesforce,2024-07-23,Medium (51-200),Retail,Professional,8.0,True
+2249,Salesforce,2024-10-08,Medium (51-200),Healthcare,Professional,27.0,True
+2250,Salesforce,2024-10-04,Large (201-1000),Healthcare,Enterprise,28.0,True
+2251,Salesforce,2024-09-09,Medium (51-200),Manufacturing,Professional,,False
+2252,Salesforce,2024-07-18,Medium (51-200),Healthcare,Business,7.0,True
+2253,Salesforce,2024-09-11,Large (201-1000),Technology,Enterprise,27.0,True
+2254,Salesforce,2024-09-06,Small (1-50),Retail,Professional,20.0,True
+2255,Salesforce,2024-09-10,Enterprise (1000+),Finance,Enterprise,8.0,True
+2256,Salesforce,2024-07-13,Small (1-50),Retail,Professional,17.0,False
+2257,Salesforce,2024-07-09,Large (201-1000),Manufacturing,Business,30.0,True
+2258,Salesforce,2024-09-11,Enterprise (1000+),Healthcare,Business,17.0,True
+2259,Salesforce,2024-09-03,Small (1-50),Retail,Starter,7.0,True
+2260,Salesforce,2024-09-03,Large (201-1000),Healthcare,Enterprise,,True
+2261,Salesforce,2024-07-28,Small (1-50),Manufacturing,Professional,9.0,True
+2262,Salesforce,2024-09-02,Enterprise (1000+),Education,Business,10.0,False
+2263,Salesforce,2024-06-22,Small (1-50),Finance,Professional,29.0,False
+2264,Salesforce,2024-07-01,Small (1-50),Technology,Professional,27.0,True
+2265,Salesforce,2024-06-28,Small (1-50),Finance,Starter,19.0,False
+2266,Salesforce,2024-09-19,Enterprise (1000+),Manufacturing,Business,26.0,False
+2267,Salesforce,2024-08-03,Enterprise (1000+),Manufacturing,Enterprise,17.0,True
+2268,Salesforce,2024-09-09,Small (1-50),Manufacturing,Professional,13.0,False
+2269,Salesforce,2024-06-16,Small (1-50),Manufacturing,Starter,,True
+2270,Salesforce,2024-07-30,Enterprise (1000+),Education,Enterprise,12.0,True
+2271,Salesforce,2024-09-25,Small (1-50),Healthcare,Starter,20.0,True
+2272,Salesforce,2024-09-06,Large (201-1000),Manufacturing,Enterprise,11.0,True
+2273,Salesforce,2024-07-24,Large (201-1000),Finance,Enterprise,23.0,True
+2274,Salesforce,2024-09-09,Medium (51-200),Healthcare,Professional,24.0,True
+2275,Salesforce,2024-08-08,Large (201-1000),Healthcare,Business,13.0,True
+2276,Salesforce,2024-07-28,Medium (51-200),Education,Business,21.0,True
+2277,Salesforce,2024-07-27,Large (201-1000),Retail,Enterprise,10.0,True
+2278,Salesforce,2024-09-24,Small (1-50),Healthcare,Professional,27.0,True
+2279,Salesforce,2024-07-14,Enterprise (1000+),Healthcare,Business,17.0,True
+2280,Salesforce,2024-08-02,Medium (51-200),Healthcare,Business,7.0,True
+2281,Salesforce,2024-06-24,Large (201-1000),Manufacturing,Business,,True
+2282,Salesforce,2024-07-09,Large (201-1000),Technology,Business,16.0,True
+2283,Salesforce,2024-10-06,Large (201-1000),Finance,Business,14.0,True
+2284,Salesforce,2024-06-17,Medium (51-200),Technology,Business,,True
+2285,Salesforce,2024-08-02,Small (1-50),Healthcare,Professional,14.0,True
+2286,Salesforce,2024-08-01,Medium (51-200),Education,Business,,True
+2287,Salesforce,2024-10-11,Medium (51-200),Healthcare,Professional,29.0,True
+2288,Salesforce,2024-08-30,Enterprise (1000+),Technology,Business,25.0,True
+2289,Salesforce,2024-08-22,Large (201-1000),Finance,Business,27.0,True
+2290,Salesforce,2024-10-04,Medium (51-200),Healthcare,Business,22.0,True
+2291,Salesforce,2024-09-01,Small (1-50),Manufacturing,Starter,27.0,True
+2292,Salesforce,2024-08-01,Enterprise (1000+),Healthcare,Enterprise,18.0,True
+2293,Salesforce,2024-08-15,Enterprise (1000+),Finance,Enterprise,27.0,True
+2294,Salesforce,2024-08-28,Small (1-50),Healthcare,Starter,21.0,True
+2295,Salesforce,2024-08-04,Medium (51-200),Retail,Business,25.0,True
+2296,Salesforce,2024-09-30,Large (201-1000),Manufacturing,Enterprise,,True
+2297,Salesforce,2024-07-22,Enterprise (1000+),Healthcare,Enterprise,21.0,True
+2298,Salesforce,2024-07-28,Enterprise (1000+),Retail,Enterprise,18.0,True
+2299,Salesforce,2024-07-25,Large (201-1000),Technology,Enterprise,14.0,True
+2300,Salesforce,2024-06-24,Large (201-1000),Finance,Business,23.0,True
+2301,Salesforce,2024-06-25,Large (201-1000),Technology,Business,,True
+2302,Salesforce,2024-08-23,Medium (51-200),Healthcare,Business,15.0,True
+2303,Salesforce,2024-09-27,Large (201-1000),Education,Business,11.0,True
+2304,Salesforce,2024-09-19,Large (201-1000),Finance,Business,18.0,True
+2305,Salesforce,2024-08-05,Enterprise (1000+),Retail,Business,11.0,True
+2306,Salesforce,2024-07-14,Medium (51-200),Retail,Professional,25.0,True
+2307,Salesforce,2024-09-19,Enterprise (1000+),Finance,Enterprise,17.0,True
+2308,Salesforce,2024-08-08,Enterprise (1000+),Retail,Business,24.0,False
+2309,Salesforce,2024-07-02,Medium (51-200),Education,Business,,True
+2310,Salesforce,2024-09-29,Large (201-1000),Healthcare,Enterprise,28.0,True
+2311,Salesforce,2024-09-20,Large (201-1000),Manufacturing,Enterprise,,True
+2312,Salesforce,2024-10-11,Medium (51-200),Finance,Professional,26.0,True
+2313,Salesforce,2024-08-27,Enterprise (1000+),Healthcare,Enterprise,9.0,True
+2314,Salesforce,2024-07-09,Enterprise (1000+),Finance,Business,21.0,True
+2315,Salesforce,2024-07-23,Small (1-50),Technology,Starter,12.0,False
+2316,Salesforce,2024-09-11,Enterprise (1000+),Healthcare,Business,19.0,True
+2317,Salesforce,2024-07-14,Large (201-1000),Retail,Business,,True
+2318,Salesforce,2024-07-06,Large (201-1000),Retail,Enterprise,10.0,True
+2319,Salesforce,2024-08-07,Enterprise (1000+),Retail,Business,13.0,True
+2320,Salesforce,2024-07-11,Large (201-1000),Education,Enterprise,12.0,True
+2321,Salesforce,2024-10-13,Large (201-1000),Manufacturing,Business,21.0,True
+2322,Salesforce,2024-06-15,Medium (51-200),Technology,Business,26.0,True
+2323,Salesforce,2024-08-21,Large (201-1000),Retail,Enterprise,8.0,True
+2324,Salesforce,2024-07-21,Enterprise (1000+),Education,Enterprise,16.0,True
+2325,Salesforce,2024-09-28,Medium (51-200),Healthcare,Business,26.0,True
+2326,Salesforce,2024-08-12,Enterprise (1000+),Education,Business,19.0,True
+2327,Salesforce,2024-06-20,Medium (51-200),Finance,Professional,24.0,True
+2328,Salesforce,2024-10-10,Small (1-50),Retail,Starter,24.0,True
+2329,Salesforce,2024-08-01,Small (1-50),Manufacturing,Starter,17.0,True
+2330,Salesforce,2024-07-06,Large (201-1000),Manufacturing,Business,,False
+2331,Salesforce,2024-09-04,Enterprise (1000+),Finance,Enterprise,13.0,True
+2332,Salesforce,2024-06-16,Large (201-1000),Education,Business,17.0,True
+2333,Salesforce,2024-08-13,Enterprise (1000+),Technology,Enterprise,,True
+2334,Salesforce,2024-09-14,Enterprise (1000+),Retail,Business,12.0,True
+2335,Salesforce,2024-06-17,Small (1-50),Finance,Starter,,True
+2336,Salesforce,2024-07-06,Small (1-50),Education,Starter,21.0,True
+2337,Salesforce,2024-07-12,Small (1-50),Retail,Starter,27.0,True
+2338,Salesforce,2024-09-05,Small (1-50),Education,Professional,8.0,True
+2339,Salesforce,2024-06-21,Enterprise (1000+),Healthcare,Business,14.0,True
+2340,Salesforce,2024-06-17,Enterprise (1000+),Technology,Business,13.0,True
+2341,Salesforce,2024-06-23,Medium (51-200),Education,Professional,12.0,False
+2342,Salesforce,2024-08-19,Small (1-50),Finance,Professional,13.0,True
+2343,Salesforce,2024-10-12,Enterprise (1000+),Technology,Enterprise,10.0,True
+2344,Salesforce,2024-07-07,Small (1-50),Education,Professional,19.0,True
+2345,Salesforce,2024-07-13,Small (1-50),Education,Professional,8.0,False
+2346,Salesforce,2024-07-12,Enterprise (1000+),Manufacturing,Enterprise,10.0,True
+2347,Salesforce,2024-09-24,Medium (51-200),Technology,Business,27.0,True
+2348,Salesforce,2024-09-09,Medium (51-200),Healthcare,Business,29.0,True
+2349,Salesforce,2024-10-01,Enterprise (1000+),Finance,Business,,True
+2350,Salesforce,2024-08-11,Enterprise (1000+),Manufacturing,Business,7.0,True
+2351,Salesforce,2024-09-01,Small (1-50),Healthcare,Professional,14.0,True
+2352,Salesforce,2024-06-22,Medium (51-200),Retail,Business,11.0,True
+2353,Salesforce,2024-09-05,Small (1-50),Education,Starter,21.0,True
+2354,Salesforce,2024-07-27,Medium (51-200),Finance,Business,8.0,True
+2355,Salesforce,2024-08-07,Large (201-1000),Healthcare,Business,17.0,True
+2356,Salesforce,2024-07-11,Small (1-50),Education,Starter,14.0,True
+2357,Salesforce,2024-08-02,Large (201-1000),Retail,Business,9.0,True
+2358,Salesforce,2024-06-23,Medium (51-200),Education,Professional,13.0,True
+2359,Salesforce,2024-07-07,Medium (51-200),Manufacturing,Professional,,True
+2360,Salesforce,2024-07-24,Medium (51-200),Healthcare,Professional,26.0,True
+2361,Salesforce,2024-07-21,Enterprise (1000+),Finance,Business,22.0,False
+2362,Salesforce,2024-07-31,Enterprise (1000+),Healthcare,Enterprise,20.0,True
+2363,Salesforce,2024-09-17,Enterprise (1000+),Retail,Business,,True
+2364,Salesforce,2024-10-02,Small (1-50),Manufacturing,Professional,24.0,True
+2365,Salesforce,2024-07-17,Enterprise (1000+),Finance,Enterprise,19.0,True
+2366,Salesforce,2024-08-15,Small (1-50),Healthcare,Professional,13.0,True
+2367,Salesforce,2024-07-09,Small (1-50),Manufacturing,Starter,18.0,True
+2368,Salesforce,2024-10-11,Enterprise (1000+),Education,Enterprise,22.0,True
+2369,Salesforce,2024-08-29,Small (1-50),Technology,Professional,10.0,True
+2370,Salesforce,2024-08-26,Medium (51-200),Retail,Professional,30.0,True
+2371,Salesforce,2024-09-13,Enterprise (1000+),Education,Enterprise,,True
+2372,Salesforce,2024-08-08,Medium (51-200),Retail,Professional,,True
+2373,Salesforce,2024-09-03,Small (1-50),Finance,Starter,28.0,True
+2374,Salesforce,2024-07-16,Medium (51-200),Technology,Professional,27.0,True
+2375,Salesforce,2024-08-03,Enterprise (1000+),Manufacturing,Business,20.0,True
+2376,Salesforce,2024-08-08,Large (201-1000),Manufacturing,Enterprise,28.0,True
+2377,Salesforce,2024-08-29,Large (201-1000),Education,Enterprise,10.0,True
+2378,Salesforce,2024-09-22,Large (201-1000),Finance,Business,30.0,True
+2379,Salesforce,2024-07-24,Small (1-50),Retail,Starter,,False
+2380,Salesforce,2024-09-12,Enterprise (1000+),Education,Enterprise,20.0,True
+2381,Salesforce,2024-08-01,Medium (51-200),Healthcare,Professional,23.0,True
+2382,Salesforce,2024-08-11,Medium (51-200),Healthcare,Professional,,True
+2383,Salesforce,2024-09-20,Medium (51-200),Retail,Business,26.0,False
+2384,Salesforce,2024-09-04,Medium (51-200),Finance,Professional,,True
+2385,Salesforce,2024-06-23,Large (201-1000),Manufacturing,Business,22.0,True
+2386,Salesforce,2024-06-27,Small (1-50),Finance,Starter,7.0,True
+2387,Salesforce,2024-09-24,Small (1-50),Healthcare,Starter,7.0,True
+2388,Salesforce,2024-08-20,Large (201-1000),Retail,Enterprise,26.0,True
+2389,Salesforce,2024-08-01,Large (201-1000),Healthcare,Enterprise,28.0,True
+2390,Salesforce,2024-09-01,Small (1-50),Finance,Professional,7.0,True
+2391,Salesforce,2024-09-12,Enterprise (1000+),Technology,Business,23.0,True
+2392,Salesforce,2024-09-12,Medium (51-200),Retail,Business,28.0,True
+2393,Salesforce,2024-08-19,Enterprise (1000+),Technology,Business,17.0,False
+2394,Salesforce,2024-07-31,Small (1-50),Education,Professional,26.0,True
+2395,Salesforce,2024-09-17,Small (1-50),Retail,Professional,22.0,True
+2396,Salesforce,2024-10-02,Small (1-50),Finance,Professional,29.0,True
+2397,Salesforce,2024-08-20,Small (1-50),Retail,Starter,16.0,True
+2398,Salesforce,2024-08-24,Enterprise (1000+),Retail,Business,22.0,True
+2399,Salesforce,2024-07-15,Medium (51-200),Healthcare,Professional,28.0,True
+2400,Salesforce,2024-06-28,Enterprise (1000+),Healthcare,Business,17.0,True
+2401,Salesforce,2024-09-21,Large (201-1000),Education,Business,22.0,True
+2402,Salesforce,2024-09-08,Small (1-50),Manufacturing,Starter,22.0,False
+2403,Salesforce,2024-09-11,Large (201-1000),Manufacturing,Business,26.0,False
+2404,Salesforce,2024-07-28,Enterprise (1000+),Education,Enterprise,24.0,True
+2405,Salesforce,2024-08-09,Medium (51-200),Finance,Professional,,False
+2406,Salesforce,2024-06-26,Large (201-1000),Education,Business,25.0,True
+2407,Salesforce,2024-10-02,Large (201-1000),Manufacturing,Enterprise,16.0,False
+2408,Salesforce,2024-08-22,Medium (51-200),Retail,Business,18.0,True
+2409,Salesforce,2024-10-12,Medium (51-200),Technology,Professional,24.0,True
+2410,Salesforce,2024-07-25,Medium (51-200),Healthcare,Business,21.0,True
+2411,Salesforce,2024-07-21,Medium (51-200),Manufacturing,Professional,23.0,True
+2412,Salesforce,2024-06-30,Large (201-1000),Education,Enterprise,22.0,True
+2413,Salesforce,2024-08-02,Small (1-50),Healthcare,Professional,13.0,True
+2414,Salesforce,2024-10-12,Medium (51-200),Healthcare,Professional,30.0,True
+2415,Salesforce,2024-09-27,Medium (51-200),Manufacturing,Professional,20.0,True
+2416,Salesforce,2024-07-29,Enterprise (1000+),Technology,Enterprise,16.0,True
+2417,Salesforce,2024-10-11,Medium (51-200),Technology,Business,,True
+2418,Salesforce,2024-08-28,Small (1-50),Retail,Professional,25.0,True
+2419,Salesforce,2024-09-12,Enterprise (1000+),Healthcare,Enterprise,30.0,True
+2420,Salesforce,2024-09-06,Small (1-50),Education,Professional,10.0,True
+2421,Salesforce,2024-10-02,Medium (51-200),Retail,Business,12.0,True
+2422,Salesforce,2024-06-27,Large (201-1000),Healthcare,Enterprise,10.0,True
+2423,Salesforce,2024-09-06,Large (201-1000),Healthcare,Enterprise,19.0,True
+2424,Salesforce,2024-06-30,Medium (51-200),Retail,Business,26.0,True
+2425,Salesforce,2024-09-06,Enterprise (1000+),Retail,Business,27.0,True
+2426,Salesforce,2024-09-03,Enterprise (1000+),Technology,Enterprise,,False
+2427,Salesforce,2024-08-16,Medium (51-200),Manufacturing,Professional,25.0,True
+2428,Salesforce,2024-09-11,Small (1-50),Retail,Starter,27.0,True
+2429,Salesforce,2024-07-23,Medium (51-200),Finance,Professional,,True
+2430,Salesforce,2024-09-24,Medium (51-200),Education,Business,,True
+2431,Salesforce,2024-08-22,Enterprise (1000+),Manufacturing,Business,24.0,True
+2432,Salesforce,2024-09-24,Small (1-50),Education,Starter,12.0,True
+2433,Salesforce,2024-09-11,Medium (51-200),Manufacturing,Professional,17.0,True
+2434,Salesforce,2024-07-01,Medium (51-200),Technology,Professional,8.0,False
+2435,Salesforce,2024-06-30,Large (201-1000),Manufacturing,Enterprise,28.0,False
+2436,Salesforce,2024-07-23,Small (1-50),Education,Professional,11.0,True
+2437,Salesforce,2024-09-11,Large (201-1000),Manufacturing,Enterprise,13.0,True
+2438,Salesforce,2024-09-07,Small (1-50),Technology,Starter,16.0,True
+2439,Salesforce,2024-07-12,Medium (51-200),Manufacturing,Professional,11.0,True
+2440,Salesforce,2024-08-08,Small (1-50),Finance,Professional,12.0,True
+2441,Salesforce,2024-06-25,Large (201-1000),Education,Enterprise,,True
+2442,Salesforce,2024-09-03,Large (201-1000),Education,Business,28.0,True
+2443,Salesforce,2024-08-19,Medium (51-200),Healthcare,Business,20.0,True
+2444,Salesforce,2024-08-31,Medium (51-200),Finance,Professional,,False
+2445,Salesforce,2024-08-24,Enterprise (1000+),Finance,Business,18.0,True
+2446,Salesforce,2024-09-22,Large (201-1000),Healthcare,Business,10.0,True
+2447,Salesforce,2024-07-13,Enterprise (1000+),Technology,Business,30.0,True
+2448,Salesforce,2024-08-29,Enterprise (1000+),Manufacturing,Business,25.0,True
+2449,Salesforce,2024-08-24,Large (201-1000),Technology,Business,19.0,True
+2450,Salesforce,2024-09-26,Enterprise (1000+),Manufacturing,Enterprise,,False
+2451,Salesforce,2024-08-19,Medium (51-200),Healthcare,Professional,30.0,True
+2452,Salesforce,2024-10-10,Large (201-1000),Education,Business,29.0,True
+2453,Salesforce,2024-08-10,Large (201-1000),Manufacturing,Enterprise,20.0,True
+2454,Salesforce,2024-09-14,Medium (51-200),Education,Business,16.0,True
+2455,Salesforce,2024-07-25,Small (1-50),Technology,Starter,9.0,True
+2456,Salesforce,2024-06-22,Small (1-50),Manufacturing,Professional,7.0,True
+2457,Salesforce,2024-08-08,Medium (51-200),Retail,Business,28.0,True
+2458,Salesforce,2024-09-12,Small (1-50),Technology,Professional,30.0,False
+2459,Salesforce,2024-08-08,Large (201-1000),Education,Business,23.0,True
+2460,Salesforce,2024-06-20,Enterprise (1000+),Education,Business,23.0,True
+2461,Salesforce,2024-07-07,Small (1-50),Healthcare,Professional,8.0,True
+2462,Salesforce,2024-08-02,Medium (51-200),Technology,Business,28.0,True
+2463,Salesforce,2024-08-23,Small (1-50),Finance,Professional,15.0,True
+2464,Salesforce,2024-09-17,Enterprise (1000+),Finance,Business,27.0,True
+2465,Salesforce,2024-10-07,Small (1-50),Manufacturing,Professional,8.0,True
+2466,Salesforce,2024-09-01,Enterprise (1000+),Finance,Enterprise,7.0,True
+2467,Salesforce,2024-09-15,Medium (51-200),Finance,Business,,True
+2468,Salesforce,2024-07-10,Small (1-50),Retail,Starter,,True
+2469,Salesforce,2024-07-04,Large (201-1000),Retail,Business,16.0,True
+2470,Salesforce,2024-10-07,Medium (51-200),Technology,Business,28.0,True
+2471,Salesforce,2024-07-05,Medium (51-200),Education,Business,18.0,True
+2472,Salesforce,2024-09-13,Medium (51-200),Healthcare,Professional,11.0,True
+2473,Salesforce,2024-09-18,Large (201-1000),Healthcare,Business,22.0,True
+2474,Salesforce,2024-07-19,Small (1-50),Retail,Professional,28.0,True
+2475,Salesforce,2024-07-26,Enterprise (1000+),Healthcare,Enterprise,,False
+2476,Salesforce,2024-06-17,Medium (51-200),Finance,Professional,28.0,True
+2477,Salesforce,2024-09-09,Large (201-1000),Manufacturing,Enterprise,20.0,True
+2478,Salesforce,2024-07-21,Enterprise (1000+),Retail,Business,11.0,True
+2479,Salesforce,2024-07-08,Medium (51-200),Technology,Business,29.0,True
+2480,Salesforce,2024-09-28,Enterprise (1000+),Retail,Business,10.0,True
+2481,Salesforce,2024-08-18,Medium (51-200),Manufacturing,Professional,11.0,True
+2482,Salesforce,2024-07-01,Enterprise (1000+),Finance,Business,11.0,True
+2483,Salesforce,2024-09-01,Medium (51-200),Technology,Professional,23.0,True
+2484,Salesforce,2024-09-04,Medium (51-200),Finance,Professional,8.0,True
+2485,Salesforce,2024-09-05,Small (1-50),Technology,Professional,15.0,True
+2486,Salesforce,2024-09-14,Enterprise (1000+),Finance,Business,12.0,False
+2487,Salesforce,2024-06-21,Large (201-1000),Finance,Business,26.0,False
+2488,Salesforce,2024-07-08,Large (201-1000),Finance,Enterprise,10.0,False
+2489,Salesforce,2024-06-16,Medium (51-200),Finance,Business,18.0,True
+2490,Salesforce,2024-08-29,Large (201-1000),Education,Business,25.0,True
+2491,Salesforce,2024-10-06,Small (1-50),Education,Starter,10.0,False
+2492,Salesforce,2024-10-09,Medium (51-200),Education,Professional,10.0,False
+2493,Salesforce,2024-08-23,Large (201-1000),Education,Enterprise,13.0,True
+2494,Salesforce,2024-07-04,Small (1-50),Healthcare,Starter,29.0,True
+2495,Salesforce,2024-10-05,Large (201-1000),Retail,Enterprise,10.0,True
+2496,Salesforce,2024-06-23,Enterprise (1000+),Manufacturing,Enterprise,23.0,True
+2497,Salesforce,2024-07-06,Large (201-1000),Finance,Business,,True
+2498,Salesforce,2024-09-24,Medium (51-200),Retail,Business,23.0,True
+2499,Salesforce,2024-07-06,Enterprise (1000+),Manufacturing,Enterprise,19.0,True
+2500,Salesforce,2024-07-11,Medium (51-200),Healthcare,Professional,25.0,True
+2501,Salesforce,2024-10-05,Enterprise (1000+),Finance,Enterprise,16.0,True
+2502,Salesforce,2024-08-24,Small (1-50),Healthcare,Starter,,True
+2503,Salesforce,2024-06-20,Medium (51-200),Healthcare,Business,8.0,True
+2504,Salesforce,2024-07-16,Medium (51-200),Technology,Professional,27.0,True
+2505,Salesforce,2024-08-01,Large (201-1000),Education,Business,15.0,True
+2506,Salesforce,2024-08-06,Large (201-1000),Technology,Enterprise,7.0,True
+2507,Salesforce,2024-07-13,Large (201-1000),Finance,Business,24.0,True
+2508,Salesforce,2024-10-04,Small (1-50),Education,Professional,27.0,True
+2509,Salesforce,2024-08-24,Medium (51-200),Healthcare,Business,13.0,True
+2510,Salesforce,2024-09-26,Enterprise (1000+),Retail,Business,30.0,True
+2511,Salesforce,2024-07-03,Enterprise (1000+),Retail,Business,12.0,True
+2512,Salesforce,2024-07-07,Medium (51-200),Education,Business,16.0,False
+2513,Salesforce,2024-07-05,Medium (51-200),Education,Business,9.0,True
+2514,Salesforce,2024-08-08,Medium (51-200),Education,Business,10.0,True
+2515,Salesforce,2024-07-02,Small (1-50),Retail,Starter,10.0,True
+2516,Salesforce,2024-09-20,Small (1-50),Healthcare,Starter,15.0,True
+2517,Salesforce,2024-09-03,Small (1-50),Technology,Starter,17.0,True
+2518,Salesforce,2024-06-25,Medium (51-200),Retail,Professional,21.0,True
+2519,Salesforce,2024-07-24,Large (201-1000),Healthcare,Enterprise,24.0,True
+2520,Salesforce,2024-09-03,Small (1-50),Technology,Starter,,True
+2521,Salesforce,2024-08-19,Enterprise (1000+),Technology,Business,7.0,True
+2522,Salesforce,2024-08-03,Medium (51-200),Education,Business,28.0,True
+2523,Salesforce,2024-10-06,Small (1-50),Healthcare,Professional,14.0,False
+2524,Salesforce,2024-07-21,Large (201-1000),Manufacturing,Business,18.0,True
+2525,Salesforce,2024-10-10,Small (1-50),Manufacturing,Starter,20.0,True
+2526,Salesforce,2024-08-30,Medium (51-200),Healthcare,Business,28.0,True
+2527,Salesforce,2024-09-27,Large (201-1000),Technology,Enterprise,22.0,True
+2528,Salesforce,2024-10-12,Large (201-1000),Technology,Business,11.0,True
+2529,Salesforce,2024-07-03,Large (201-1000),Retail,Business,22.0,True
+2530,Salesforce,2024-06-29,Enterprise (1000+),Healthcare,Enterprise,,True
+2531,Salesforce,2024-07-08,Enterprise (1000+),Finance,Enterprise,22.0,True
+2532,Salesforce,2024-08-06,Large (201-1000),Education,Business,19.0,True
+2533,Salesforce,2024-08-17,Enterprise (1000+),Retail,Business,,True
+2534,Salesforce,2024-08-21,Medium (51-200),Healthcare,Professional,13.0,True
+2535,Salesforce,2024-06-17,Large (201-1000),Healthcare,Enterprise,8.0,True
+2536,Salesforce,2024-07-31,Medium (51-200),Retail,Business,,True
+2537,Salesforce,2024-10-12,Enterprise (1000+),Healthcare,Business,8.0,True
+2538,Salesforce,2024-06-30,Medium (51-200),Education,Business,,True
+2539,Salesforce,2024-08-01,Small (1-50),Education,Starter,22.0,True
+2540,Salesforce,2024-10-04,Medium (51-200),Healthcare,Professional,9.0,True
+2541,Salesforce,2024-06-16,Enterprise (1000+),Healthcare,Business,11.0,True
+2542,Salesforce,2024-09-12,Large (201-1000),Retail,Enterprise,21.0,True
+2543,Salesforce,2024-09-11,Small (1-50),Technology,Professional,27.0,False
+2544,Salesforce,2024-09-19,Medium (51-200),Technology,Professional,20.0,True
+2545,Salesforce,2024-10-05,Enterprise (1000+),Manufacturing,Enterprise,29.0,True
+2546,Salesforce,2024-10-12,Medium (51-200),Technology,Business,11.0,True
+2547,Salesforce,2024-08-05,Small (1-50),Retail,Starter,30.0,True
+2548,Salesforce,2024-08-31,Small (1-50),Retail,Professional,27.0,True
+2549,Salesforce,2024-08-02,Medium (51-200),Finance,Professional,13.0,True
+2550,Salesforce,2024-06-28,Small (1-50),Manufacturing,Professional,17.0,False
+2551,Salesforce,2024-07-21,Medium (51-200),Technology,Professional,7.0,True
+2552,Salesforce,2024-07-24,Medium (51-200),Education,Professional,14.0,True
+2553,Salesforce,2024-08-26,Small (1-50),Technology,Professional,,False
+2554,Salesforce,2024-07-24,Small (1-50),Finance,Professional,23.0,True
+2555,Salesforce,2024-09-19,Enterprise (1000+),Healthcare,Enterprise,10.0,True
+2556,Freshworks CRM,2024-10-03,Small (1-50),Technology,Starter,19.0,True
+2557,Freshworks CRM,2024-10-20,Small (1-50),Healthcare,Professional,21.0,False
+2558,Freshworks CRM,2024-09-19,Small (1-50),Healthcare,Starter,27.0,True
+2559,Freshworks CRM,2024-09-30,Medium (51-200),Retail,Business,17.0,True
+2560,Freshworks CRM,2024-09-18,Enterprise (1000+),Education,Business,19.0,True
+2561,Freshworks CRM,2024-09-17,Small (1-50),Manufacturing,Starter,22.0,False
+2562,Freshworks CRM,2024-07-02,Medium (51-200),Manufacturing,Business,9.0,True
+2563,Freshworks CRM,2024-08-28,Large (201-1000),Finance,Business,15.0,True
+2564,Freshworks CRM,2024-08-15,Small (1-50),Healthcare,Starter,21.0,True
+2565,Freshworks CRM,2024-08-30,Large (201-1000),Education,Enterprise,10.0,True
+2566,Freshworks CRM,2024-09-01,Small (1-50),Finance,Professional,26.0,True
+2567,Freshworks CRM,2024-07-17,Enterprise (1000+),Manufacturing,Enterprise,17.0,True
+2568,Freshworks CRM,2024-09-26,Enterprise (1000+),Finance,Enterprise,28.0,False
+2569,Freshworks CRM,2024-09-21,Small (1-50),Education,Starter,7.0,True
+2570,Freshworks CRM,2024-07-14,Large (201-1000),Healthcare,Enterprise,9.0,True
+2571,Freshworks CRM,2024-10-20,Enterprise (1000+),Finance,Business,27.0,True
+2572,Freshworks CRM,2024-10-13,Enterprise (1000+),Technology,Business,10.0,True
+2573,Freshworks CRM,2024-10-27,Enterprise (1000+),Healthcare,Enterprise,9.0,True
+2574,Freshworks CRM,2024-09-16,Enterprise (1000+),Education,Business,10.0,True
+2575,Freshworks CRM,2024-07-05,Medium (51-200),Healthcare,Business,17.0,True
+2576,Freshworks CRM,2024-09-15,Enterprise (1000+),Finance,Business,22.0,True
+2577,Freshworks CRM,2024-07-28,Small (1-50),Finance,Professional,12.0,False
+2578,Freshworks CRM,2024-07-09,Large (201-1000),Technology,Enterprise,29.0,True
+2579,Freshworks CRM,2024-08-23,Medium (51-200),Healthcare,Business,9.0,True
+2580,Freshworks CRM,2024-08-24,Large (201-1000),Healthcare,Enterprise,20.0,True
+2581,Freshworks CRM,2024-09-07,Medium (51-200),Finance,Business,25.0,True
+2582,Freshworks CRM,2024-07-02,Medium (51-200),Education,Professional,26.0,True
+2583,Freshworks CRM,2024-09-24,Large (201-1000),Healthcare,Business,11.0,True
+2584,Freshworks CRM,2024-08-10,Small (1-50),Finance,Professional,7.0,True
+2585,Freshworks CRM,2024-10-29,Medium (51-200),Education,Business,10.0,False
+2586,Freshworks CRM,2024-10-04,Medium (51-200),Education,Business,12.0,True
+2587,Freshworks CRM,2024-07-28,Large (201-1000),Healthcare,Business,25.0,True
+2588,Freshworks CRM,2024-08-17,Large (201-1000),Finance,Business,23.0,True
+2589,Freshworks CRM,2024-07-16,Enterprise (1000+),Retail,Enterprise,18.0,True
+2590,Freshworks CRM,2024-08-24,Large (201-1000),Healthcare,Business,18.0,True
+2591,Freshworks CRM,2024-09-15,Medium (51-200),Retail,Business,28.0,True
+2592,Freshworks CRM,2024-08-25,Large (201-1000),Technology,Business,10.0,False
+2593,Freshworks CRM,2024-07-03,Enterprise (1000+),Retail,Business,26.0,True
+2594,Freshworks CRM,2024-07-13,Enterprise (1000+),Education,Business,20.0,True
+2595,Freshworks CRM,2024-10-08,Enterprise (1000+),Technology,Enterprise,22.0,True
+2596,Freshworks CRM,2024-08-14,Enterprise (1000+),Education,Enterprise,30.0,True
+2597,Freshworks CRM,2024-10-29,Large (201-1000),Manufacturing,Business,28.0,True
+2598,Freshworks CRM,2024-10-16,Enterprise (1000+),Technology,Business,20.0,False
+2599,Freshworks CRM,2024-07-04,Medium (51-200),Manufacturing,Business,26.0,True
+2600,Freshworks CRM,2024-07-22,Enterprise (1000+),Manufacturing,Business,13.0,True
+2601,Freshworks CRM,2024-08-20,Small (1-50),Healthcare,Professional,19.0,True
+2602,Freshworks CRM,2024-07-23,Enterprise (1000+),Manufacturing,Enterprise,14.0,False
+2603,Freshworks CRM,2024-10-11,Medium (51-200),Education,Professional,19.0,True
+2604,Freshworks CRM,2024-09-19,Large (201-1000),Finance,Business,9.0,False
+2605,Freshworks CRM,2024-07-02,Medium (51-200),Manufacturing,Professional,9.0,True
+2606,Freshworks CRM,2024-07-04,Medium (51-200),Education,Business,18.0,True
+2607,Freshworks CRM,2024-09-22,Medium (51-200),Healthcare,Business,14.0,True
+2608,Freshworks CRM,2024-10-12,Enterprise (1000+),Education,Enterprise,,False
+2609,Freshworks CRM,2024-07-19,Small (1-50),Technology,Starter,26.0,True
+2610,Freshworks CRM,2024-07-19,Large (201-1000),Healthcare,Enterprise,,True
+2611,Freshworks CRM,2024-08-16,Medium (51-200),Technology,Business,7.0,True
+2612,Freshworks CRM,2024-09-01,Small (1-50),Education,Starter,17.0,True
+2613,Freshworks CRM,2024-08-27,Medium (51-200),Finance,Professional,,True
+2614,Freshworks CRM,2024-09-11,Small (1-50),Finance,Starter,22.0,True
+2615,Freshworks CRM,2024-09-15,Small (1-50),Manufacturing,Starter,10.0,True
+2616,Freshworks CRM,2024-07-04,Small (1-50),Healthcare,Starter,10.0,True
+2617,Freshworks CRM,2024-07-04,Large (201-1000),Healthcare,Business,,True
+2618,Freshworks CRM,2024-07-17,Large (201-1000),Retail,Enterprise,9.0,True
+2619,Freshworks CRM,2024-09-09,Large (201-1000),Education,Enterprise,20.0,True
+2620,Freshworks CRM,2024-08-21,Medium (51-200),Healthcare,Business,29.0,True
+2621,Freshworks CRM,2024-08-20,Small (1-50),Healthcare,Professional,30.0,True
+2622,Freshworks CRM,2024-10-22,Enterprise (1000+),Manufacturing,Enterprise,17.0,True
+2623,Freshworks CRM,2024-09-16,Enterprise (1000+),Healthcare,Enterprise,18.0,True
+2624,Freshworks CRM,2024-10-13,Small (1-50),Healthcare,Professional,23.0,True
+2625,Freshworks CRM,2024-08-22,Large (201-1000),Retail,Enterprise,,True
+2626,Freshworks CRM,2024-08-11,Enterprise (1000+),Finance,Business,13.0,True
+2627,Freshworks CRM,2024-08-17,Medium (51-200),Technology,Business,,True
+2628,Freshworks CRM,2024-09-30,Large (201-1000),Retail,Business,17.0,True
+2629,Freshworks CRM,2024-09-10,Small (1-50),Finance,Professional,23.0,True
+2630,Freshworks CRM,2024-09-10,Large (201-1000),Manufacturing,Business,20.0,True
+2631,Freshworks CRM,2024-08-25,Large (201-1000),Healthcare,Enterprise,22.0,True
+2632,Freshworks CRM,2024-08-05,Enterprise (1000+),Technology,Business,26.0,True
+2633,Freshworks CRM,2024-08-19,Medium (51-200),Finance,Professional,,True
+2634,Freshworks CRM,2024-09-12,Small (1-50),Finance,Professional,,True
+2635,Freshworks CRM,2024-07-05,Small (1-50),Education,Professional,,True
+2636,Freshworks CRM,2024-10-15,Enterprise (1000+),Finance,Enterprise,18.0,True
+2637,Freshworks CRM,2024-09-10,Large (201-1000),Manufacturing,Enterprise,,True
+2638,Freshworks CRM,2024-08-28,Enterprise (1000+),Finance,Business,10.0,False
+2639,Freshworks CRM,2024-07-07,Small (1-50),Technology,Starter,29.0,True
+2640,Freshworks CRM,2024-07-29,Medium (51-200),Healthcare,Professional,18.0,True
+2641,Freshworks CRM,2024-09-07,Small (1-50),Finance,Starter,8.0,False
+2642,Freshworks CRM,2024-08-08,Small (1-50),Finance,Professional,19.0,True
+2643,Freshworks CRM,2024-07-22,Medium (51-200),Technology,Business,,True
+2644,Freshworks CRM,2024-10-05,Enterprise (1000+),Education,Enterprise,,True
+2645,Freshworks CRM,2024-09-12,Enterprise (1000+),Finance,Enterprise,30.0,True
+2646,Freshworks CRM,2024-07-12,Large (201-1000),Education,Enterprise,,True
+2647,Freshworks CRM,2024-10-20,Medium (51-200),Education,Professional,,True
+2648,Freshworks CRM,2024-07-08,Medium (51-200),Education,Professional,19.0,True
+2649,Freshworks CRM,2024-07-14,Large (201-1000),Manufacturing,Business,23.0,True
+2650,Freshworks CRM,2024-10-06,Large (201-1000),Education,Enterprise,23.0,False
+2651,Freshworks CRM,2024-07-17,Medium (51-200),Retail,Business,26.0,True
+2652,Freshworks CRM,2024-10-08,Enterprise (1000+),Technology,Business,12.0,True
+2653,Freshworks CRM,2024-10-20,Small (1-50),Retail,Starter,30.0,False
+2654,Freshworks CRM,2024-07-03,Enterprise (1000+),Finance,Business,,True
+2655,Freshworks CRM,2024-08-27,Large (201-1000),Technology,Enterprise,9.0,True
+2656,Freshworks CRM,2024-07-28,Medium (51-200),Manufacturing,Business,17.0,False
+2657,Freshworks CRM,2024-08-04,Large (201-1000),Technology,Business,30.0,True
+2658,Freshworks CRM,2024-07-25,Large (201-1000),Retail,Business,15.0,True
+2659,Freshworks CRM,2024-09-02,Enterprise (1000+),Education,Business,,True
+2660,Freshworks CRM,2024-07-15,Medium (51-200),Technology,Professional,25.0,True
+2661,Freshworks CRM,2024-07-09,Small (1-50),Healthcare,Professional,29.0,True
+2662,Freshworks CRM,2024-08-20,Enterprise (1000+),Healthcare,Business,29.0,True
+2663,Freshworks CRM,2024-07-27,Medium (51-200),Finance,Professional,29.0,True
+2664,Freshworks CRM,2024-10-02,Small (1-50),Healthcare,Starter,29.0,True
+2665,Freshworks CRM,2024-10-03,Large (201-1000),Healthcare,Business,9.0,True
+2666,Freshworks CRM,2024-08-12,Enterprise (1000+),Technology,Business,20.0,True
+2667,Freshworks CRM,2024-07-23,Large (201-1000),Healthcare,Business,7.0,True
+2668,Freshworks CRM,2024-08-30,Small (1-50),Healthcare,Professional,8.0,True
+2669,Freshworks CRM,2024-09-11,Large (201-1000),Manufacturing,Business,11.0,True
+2670,Freshworks CRM,2024-07-13,Large (201-1000),Retail,Enterprise,18.0,True
+2671,Freshworks CRM,2024-08-02,Enterprise (1000+),Finance,Enterprise,18.0,True
+2672,Freshworks CRM,2024-08-12,Enterprise (1000+),Finance,Business,30.0,True
+2673,Freshworks CRM,2024-07-19,Enterprise (1000+),Education,Business,18.0,True
+2674,Freshworks CRM,2024-08-01,Enterprise (1000+),Healthcare,Enterprise,13.0,True
+2675,Freshworks CRM,2024-08-18,Small (1-50),Education,Professional,21.0,True
+2676,Freshworks CRM,2024-10-21,Medium (51-200),Education,Business,17.0,True
+2677,Freshworks CRM,2024-08-23,Large (201-1000),Healthcare,Enterprise,,True
+2678,Freshworks CRM,2024-08-13,Small (1-50),Retail,Professional,18.0,True
+2679,Freshworks CRM,2024-07-02,Enterprise (1000+),Retail,Business,23.0,True
+2680,Freshworks CRM,2024-09-18,Medium (51-200),Retail,Business,16.0,False
+2681,Freshworks CRM,2024-07-06,Medium (51-200),Manufacturing,Business,,True
+2682,Freshworks CRM,2024-07-01,Enterprise (1000+),Education,Enterprise,8.0,True
+2683,Freshworks CRM,2024-08-14,Large (201-1000),Technology,Business,11.0,True
+2684,Freshworks CRM,2024-07-26,Enterprise (1000+),Finance,Business,22.0,True
+2685,Freshworks CRM,2024-08-01,Enterprise (1000+),Retail,Enterprise,10.0,True
+2686,Freshworks CRM,2024-10-26,Large (201-1000),Healthcare,Enterprise,28.0,True
+2687,Freshworks CRM,2024-10-11,Medium (51-200),Finance,Professional,,True
+2688,Freshworks CRM,2024-08-08,Large (201-1000),Finance,Business,27.0,True
+2689,Freshworks CRM,2024-07-24,Enterprise (1000+),Technology,Enterprise,,True
+2690,Freshworks CRM,2024-08-10,Large (201-1000),Finance,Enterprise,20.0,True
+2691,Freshworks CRM,2024-08-29,Small (1-50),Retail,Starter,,True
+2692,Freshworks CRM,2024-10-25,Large (201-1000),Manufacturing,Business,11.0,True
+2693,Freshworks CRM,2024-10-24,Large (201-1000),Retail,Business,,True
+2694,Freshworks CRM,2024-08-29,Enterprise (1000+),Technology,Business,,True
+2695,Freshworks CRM,2024-09-22,Small (1-50),Manufacturing,Professional,,True
+2696,Freshworks CRM,2024-08-31,Large (201-1000),Technology,Business,28.0,True
+2697,Freshworks CRM,2024-09-30,Small (1-50),Manufacturing,Starter,,True
+2698,Freshworks CRM,2024-09-02,Medium (51-200),Education,Professional,11.0,True
+2699,Freshworks CRM,2024-08-09,Small (1-50),Manufacturing,Professional,10.0,False
+2700,Freshworks CRM,2024-07-20,Small (1-50),Healthcare,Starter,22.0,False
+2701,Freshworks CRM,2024-09-03,Enterprise (1000+),Technology,Enterprise,16.0,True
+2702,Freshworks CRM,2024-07-24,Medium (51-200),Manufacturing,Business,28.0,True
+2703,Freshworks CRM,2024-08-25,Medium (51-200),Healthcare,Professional,,True
+2704,Freshworks CRM,2024-07-31,Medium (51-200),Retail,Professional,16.0,True
+2705,Freshworks CRM,2024-09-14,Enterprise (1000+),Education,Enterprise,19.0,True
+2706,Freshworks CRM,2024-07-14,Enterprise (1000+),Retail,Enterprise,,True
+2707,Freshworks CRM,2024-07-16,Enterprise (1000+),Manufacturing,Business,27.0,True
+2708,Freshworks CRM,2024-09-23,Enterprise (1000+),Finance,Business,21.0,True
+2709,Freshworks CRM,2024-08-28,Large (201-1000),Healthcare,Business,23.0,True
+2710,Freshworks CRM,2024-10-24,Enterprise (1000+),Healthcare,Business,18.0,True
+2711,Freshworks CRM,2024-09-11,Large (201-1000),Education,Enterprise,11.0,True
+2712,Freshworks CRM,2024-10-06,Large (201-1000),Technology,Enterprise,27.0,True
+2713,Freshworks CRM,2024-08-30,Medium (51-200),Healthcare,Business,25.0,True
+2714,Freshworks CRM,2024-08-14,Enterprise (1000+),Technology,Business,,True
+2715,Freshworks CRM,2024-07-30,Small (1-50),Retail,Starter,22.0,True
+2716,Freshworks CRM,2024-07-30,Medium (51-200),Healthcare,Professional,19.0,True
+2717,Freshworks CRM,2024-08-23,Small (1-50),Manufacturing,Starter,8.0,True
+2718,Freshworks CRM,2024-07-10,Enterprise (1000+),Manufacturing,Enterprise,7.0,True
+2719,Freshworks CRM,2024-08-11,Small (1-50),Retail,Professional,,True
+2720,Freshworks CRM,2024-09-10,Medium (51-200),Finance,Professional,28.0,True
+2721,Freshworks CRM,2024-07-26,Medium (51-200),Manufacturing,Business,13.0,False
+2722,Freshworks CRM,2024-07-04,Small (1-50),Technology,Starter,7.0,True
+2723,Freshworks CRM,2024-08-22,Small (1-50),Healthcare,Professional,30.0,True
+2724,Freshworks CRM,2024-09-02,Medium (51-200),Manufacturing,Professional,23.0,True
+2725,Freshworks CRM,2024-09-18,Medium (51-200),Retail,Professional,19.0,True
+2726,Freshworks CRM,2024-09-11,Small (1-50),Manufacturing,Starter,10.0,True
+2727,Freshworks CRM,2024-07-07,Large (201-1000),Healthcare,Business,16.0,True
+2728,Freshworks CRM,2024-08-02,Enterprise (1000+),Technology,Enterprise,12.0,True
+2729,Freshworks CRM,2024-07-10,Medium (51-200),Retail,Business,24.0,True
+2730,Freshworks CRM,2024-07-15,Enterprise (1000+),Education,Enterprise,,True
+2731,Freshworks CRM,2024-08-03,Medium (51-200),Technology,Business,,True
+2732,Freshworks CRM,2024-10-02,Large (201-1000),Healthcare,Business,25.0,True
+2733,Freshworks CRM,2024-09-28,Small (1-50),Technology,Professional,26.0,True
+2734,Freshworks CRM,2024-10-27,Small (1-50),Healthcare,Professional,8.0,False
+2735,Freshworks CRM,2024-09-02,Medium (51-200),Retail,Business,14.0,False
+2736,Freshworks CRM,2024-07-08,Small (1-50),Manufacturing,Starter,19.0,True
+2737,Freshworks CRM,2024-10-03,Small (1-50),Technology,Professional,19.0,True
+2738,Freshworks CRM,2024-08-25,Enterprise (1000+),Technology,Business,26.0,True
+2739,Freshworks CRM,2024-08-17,Large (201-1000),Finance,Business,8.0,True
+2740,Freshworks CRM,2024-07-12,Small (1-50),Retail,Starter,24.0,True
+2741,Freshworks CRM,2024-10-11,Small (1-50),Technology,Starter,,True
+2742,Freshworks CRM,2024-07-24,Large (201-1000),Finance,Business,27.0,True
+2743,Freshworks CRM,2024-08-07,Medium (51-200),Retail,Business,28.0,False
+2744,Freshworks CRM,2024-08-02,Medium (51-200),Education,Business,18.0,True
+2745,Freshworks CRM,2024-10-18,Medium (51-200),Education,Business,18.0,True
+2746,Freshworks CRM,2024-08-07,Medium (51-200),Finance,Business,23.0,False
+2747,Freshworks CRM,2024-08-14,Enterprise (1000+),Finance,Enterprise,,True
+2748,Freshworks CRM,2024-10-16,Medium (51-200),Education,Business,10.0,True
+2749,Freshworks CRM,2024-10-13,Medium (51-200),Healthcare,Professional,27.0,True
+2750,Monday.com,2024-08-12,Enterprise (1000+),Finance,Business,19.0,True
+2751,Monday.com,2024-08-20,Small (1-50),Manufacturing,Professional,7.0,True
+2752,Monday.com,2024-09-28,Enterprise (1000+),Healthcare,Business,12.0,True
+2753,Monday.com,2024-10-17,Small (1-50),Technology,Professional,18.0,True
+2754,Monday.com,2024-12-04,Large (201-1000),Manufacturing,Enterprise,7.0,True
+2755,Monday.com,2024-11-24,Enterprise (1000+),Education,Enterprise,8.0,True
+2756,Monday.com,2024-10-19,Enterprise (1000+),Manufacturing,Enterprise,25.0,True
+2757,Monday.com,2024-11-16,Large (201-1000),Retail,Business,14.0,True
+2758,Monday.com,2024-08-11,Large (201-1000),Technology,Enterprise,24.0,True
+2759,Monday.com,2024-10-22,Enterprise (1000+),Manufacturing,Business,15.0,True
+2760,Monday.com,2024-11-18,Small (1-50),Finance,Starter,17.0,True
+2761,Monday.com,2024-11-26,Medium (51-200),Retail,Business,,False
+2762,Monday.com,2024-08-14,Large (201-1000),Education,Enterprise,13.0,True
+2763,Monday.com,2024-10-23,Small (1-50),Manufacturing,Professional,9.0,True
+2764,Monday.com,2024-09-12,Large (201-1000),Retail,Enterprise,,True
+2765,Monday.com,2024-08-28,Small (1-50),Technology,Starter,12.0,True
+2766,Monday.com,2024-11-28,Enterprise (1000+),Technology,Enterprise,14.0,False
+2767,Monday.com,2024-11-09,Large (201-1000),Technology,Enterprise,18.0,True
+2768,Monday.com,2024-08-15,Medium (51-200),Technology,Business,,True
+2769,Monday.com,2024-10-14,Small (1-50),Healthcare,Starter,18.0,True
+2770,Monday.com,2024-11-05,Enterprise (1000+),Education,Business,16.0,True
+2771,Monday.com,2024-09-20,Large (201-1000),Retail,Enterprise,18.0,True
+2772,Monday.com,2024-09-16,Small (1-50),Finance,Starter,,True
+2773,Monday.com,2024-12-04,Small (1-50),Manufacturing,Starter,17.0,True
+2774,Monday.com,2024-11-17,Large (201-1000),Retail,Business,8.0,True
+2775,Monday.com,2024-08-29,Enterprise (1000+),Technology,Business,14.0,True
+2776,Monday.com,2024-10-22,Enterprise (1000+),Manufacturing,Business,26.0,True
+2777,Monday.com,2024-10-16,Enterprise (1000+),Finance,Enterprise,25.0,True
+2778,Monday.com,2024-09-10,Large (201-1000),Finance,Business,17.0,True
+2779,Monday.com,2024-08-24,Medium (51-200),Education,Business,20.0,True
+2780,Monday.com,2024-09-24,Small (1-50),Education,Professional,14.0,True
+2781,Monday.com,2024-10-02,Medium (51-200),Manufacturing,Professional,20.0,True
+2782,Monday.com,2024-11-03,Medium (51-200),Finance,Business,10.0,False
+2783,Monday.com,2024-10-02,Medium (51-200),Education,Business,13.0,True
+2784,Monday.com,2024-11-30,Enterprise (1000+),Healthcare,Business,,True
+2785,Monday.com,2024-10-19,Enterprise (1000+),Healthcare,Business,20.0,False
+2786,Monday.com,2024-08-31,Small (1-50),Manufacturing,Starter,19.0,True
+2787,Monday.com,2024-09-24,Medium (51-200),Education,Business,29.0,True
+2788,Monday.com,2024-09-22,Large (201-1000),Education,Business,,True
+2789,Monday.com,2024-09-24,Enterprise (1000+),Education,Enterprise,20.0,True
+2790,Monday.com,2024-10-10,Medium (51-200),Education,Professional,23.0,False
+2791,Monday.com,2024-12-02,Small (1-50),Education,Professional,19.0,True
+2792,Monday.com,2024-09-01,Large (201-1000),Healthcare,Business,17.0,False
+2793,Monday.com,2024-10-15,Enterprise (1000+),Finance,Enterprise,12.0,True
+2794,Monday.com,2024-08-15,Medium (51-200),Manufacturing,Business,26.0,True
+2795,Monday.com,2024-09-23,Large (201-1000),Technology,Business,22.0,True
+2796,Monday.com,2024-12-01,Medium (51-200),Finance,Business,10.0,True
+2797,Monday.com,2024-11-03,Large (201-1000),Technology,Business,23.0,True
+2798,Monday.com,2024-08-13,Small (1-50),Technology,Starter,7.0,True
+2799,Monday.com,2024-09-15,Enterprise (1000+),Manufacturing,Enterprise,,True
+2800,Monday.com,2024-12-05,Small (1-50),Retail,Starter,22.0,True
+2801,Monday.com,2024-11-28,Medium (51-200),Education,Business,18.0,True
+2802,Monday.com,2024-11-13,Medium (51-200),Finance,Professional,17.0,True
+2803,Monday.com,2024-10-29,Small (1-50),Technology,Professional,29.0,True
+2804,Monday.com,2024-09-19,Medium (51-200),Education,Professional,14.0,True
+2805,Monday.com,2024-09-27,Medium (51-200),Finance,Professional,22.0,True
+2806,Monday.com,2024-11-11,Enterprise (1000+),Healthcare,Enterprise,9.0,True
+2807,Monday.com,2024-11-27,Medium (51-200),Retail,Professional,,True
+2808,Monday.com,2024-09-05,Medium (51-200),Retail,Professional,26.0,True
+2809,Monday.com,2024-10-23,Medium (51-200),Retail,Business,12.0,True
+2810,Monday.com,2024-11-25,Medium (51-200),Education,Business,27.0,True
+2811,Monday.com,2024-09-24,Enterprise (1000+),Technology,Enterprise,16.0,True
+2812,Monday.com,2024-10-06,Large (201-1000),Education,Business,12.0,True
+2813,Monday.com,2024-09-19,Small (1-50),Education,Professional,11.0,True
+2814,Monday.com,2024-10-10,Enterprise (1000+),Education,Enterprise,16.0,True
+2815,Monday.com,2024-09-06,Enterprise (1000+),Manufacturing,Business,15.0,True
+2816,Monday.com,2024-10-01,Enterprise (1000+),Retail,Enterprise,8.0,True
+2817,Monday.com,2024-11-11,Medium (51-200),Education,Business,16.0,True
+2818,Monday.com,2024-09-07,Medium (51-200),Education,Professional,,True
+2819,Monday.com,2024-10-27,Large (201-1000),Manufacturing,Business,30.0,False
+2820,Monday.com,2024-09-27,Small (1-50),Finance,Professional,24.0,False
+2821,Monday.com,2024-08-16,Medium (51-200),Manufacturing,Business,12.0,True
+2822,Monday.com,2024-09-29,Medium (51-200),Healthcare,Business,17.0,True
+2823,Monday.com,2024-10-19,Medium (51-200),Technology,Professional,23.0,False
+2824,Monday.com,2024-09-29,Enterprise (1000+),Healthcare,Business,7.0,True
+2825,Monday.com,2024-11-16,Medium (51-200),Finance,Professional,19.0,True
+2826,Monday.com,2024-08-26,Large (201-1000),Technology,Business,,True
+2827,Monday.com,2024-11-15,Enterprise (1000+),Technology,Business,24.0,True
+2828,Monday.com,2024-08-29,Small (1-50),Healthcare,Professional,16.0,True
+2829,Monday.com,2024-10-03,Small (1-50),Finance,Professional,10.0,True
+2830,Monday.com,2024-11-01,Enterprise (1000+),Finance,Enterprise,14.0,True
+2831,Monday.com,2024-10-20,Large (201-1000),Finance,Enterprise,24.0,True
+2832,Monday.com,2024-09-27,Small (1-50),Education,Professional,18.0,True
+2833,Monday.com,2024-11-09,Small (1-50),Healthcare,Professional,7.0,True
+2834,Monday.com,2024-09-08,Enterprise (1000+),Retail,Enterprise,27.0,True
+2835,Monday.com,2024-08-28,Small (1-50),Manufacturing,Starter,22.0,True
+2836,Monday.com,2024-08-20,Medium (51-200),Manufacturing,Business,23.0,True
+2837,Monday.com,2024-10-21,Medium (51-200),Retail,Professional,16.0,True
+2838,Monday.com,2024-11-24,Medium (51-200),Finance,Professional,26.0,True
+2839,Monday.com,2024-08-10,Large (201-1000),Manufacturing,Business,24.0,True
+2840,Monday.com,2024-11-01,Medium (51-200),Retail,Business,23.0,True
+2841,Monday.com,2024-11-12,Small (1-50),Retail,Starter,19.0,True
+2842,Monday.com,2024-08-11,Medium (51-200),Healthcare,Professional,10.0,False
+2843,Monday.com,2024-10-03,Enterprise (1000+),Education,Business,22.0,True
